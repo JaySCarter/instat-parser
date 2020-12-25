@@ -1,0 +1,3 @@
+ID,raw_event_ID,game_ID,half,start_time,end_time,player_ID,team_ID,pos_x,pos_y,assisted_by,assist_pos_x,assist_pos_y,conceding_GK,conceding_team,penalty,own_goal
+GOAL20190413CHINC-0,RAW-20190413CHINC-1153,20190413CHINC,1,25:41,26:31,117,CHI,95.9,28.4,161.0,47.1,54.0,125.0,NC,0,0
+GOAL20190413CHINC-1,RAW-20190413CHINC-2984,20190413CHINC,2,64:59,65:49,54,NC,94.5,23.5,146.0,98.9,0.0,160.0,CHI,0,0
