@@ -1,0 +1,1001 @@
+ID,game_ID,passer,team,receiver,start_pos_x,start_pos_y,end_pos_x,end_pos_y,successful
+PASS-20190413CHINC-0,20190413CHINC,"McCall Zerboni","North Carolina Courage","Abby Dahlkemper",52.9,33.6,35.7,35.8,1
+PASS-20190413CHINC-1,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Katie Naughton",35.7,35.8,74.4,41.6,0
+PASS-20190413CHINC-10,20190413CHINC,"Abby Erceg","North Carolina Courage","Abby Dahlkemper",20.2,49.3,27.2,18.9,1
+PASS-20190413CHINC-100,20190413CHINC,"Crystal Dunn","North Carolina Courage","Jaelene Hinkle",47.8,35.2,58.4,55.1,1
+PASS-20190413CHINC-101,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Katie Naughton",61.3,51.3,78,42,0
+PASS-20190413CHINC-102,20190413CHINC,"Katie Naughton","Chicago Red Stars",NULL,27,26,58,0,0
+PASS-20190413CHINC-103,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Abby Erceg",47,68,33.5,58,1
+PASS-20190413CHINC-104,20190413CHINC,"Abby Erceg","North Carolina Courage","Jaelene Hinkle",37.1,58.5,44.1,64.4,1
+PASS-20190413CHINC-105,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Jessica McDonald",48.8,62.3,70.3,60,1
+PASS-20190413CHINC-106,20190413CHINC,"Katie Naughton","Chicago Red Stars","Danielle Colaprico",17.6,10.9,39.4,13.5,1
+PASS-20190413CHINC-107,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Alyssa Mautz",39.4,13.5,32.8,8,1
+PASS-20190413CHINC-108,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Abby Erceg",32.8,8,65.9,18.1,0
+PASS-20190413CHINC-109,20190413CHINC,"Abby Erceg","North Carolina Courage","McCall Zerboni",39.1,49.9,48.8,49.9,1
+PASS-20190413CHINC-11,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Abby Erceg",27.2,18.9,28.7,48.1,1
+PASS-20190413CHINC-110,20190413CHINC,"McCall Zerboni","North Carolina Courage","Sam Mewis",48.8,49.9,41.2,44.2,1
+PASS-20190413CHINC-111,20190413CHINC,"Sam Mewis","North Carolina Courage","Abby Dahlkemper",42,43.4,37,28.2,1
+PASS-20190413CHINC-112,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Merritt Mathias",47.2,21.8,60,6.1,1
+PASS-20190413CHINC-113,20190413CHINC,"Merritt Mathias","North Carolina Courage","Lynn Williams",60,6.1,76.9,7.6,1
+PASS-20190413CHINC-114,20190413CHINC,"Jessica McDonald","North Carolina Courage","Tierna Davidson",90.4,0,102.1,19.5,0
+PASS-20190413CHINC-115,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Jessica McDonald",105,0,91.1,35.7,1
+PASS-20190413CHINC-116,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Katie Naughton",105,68,97.7,26.8,0
+PASS-20190413CHINC-117,20190413CHINC,"Alyssa Naeher","Chicago Red Stars","Alyssa Mautz",14.4,27.1,61.6,16.9,1
+PASS-20190413CHINC-118,20190413CHINC,"McCall Zerboni","North Carolina Courage","Denise O'Sullivan",48.7,54.2,58.5,59.3,1
+PASS-20190413CHINC-119,20190413CHINC,"Julie Ertz","Chicago Red Stars","Abby Erceg",48.7,0,66.7,15.3,0
+PASS-20190413CHINC-12,20190413CHINC,"Abby Erceg","North Carolina Courage","Jaelene Hinkle",28.7,48.1,74,55.7,1
+PASS-20190413CHINC-120,20190413CHINC,"Abby Dahlkemper","North Carolina Courage",NULL,27.3,45.2,27.7,68,0
+PASS-20190413CHINC-121,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Danielle Colaprico",77.3,0,74.6,12.4,1
+PASS-20190413CHINC-122,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Alyssa Mautz",74.6,12.4,74.8,4.7,1
+PASS-20190413CHINC-123,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Denise O'Sullivan",74.9,10.1,70.1,10.8,0
+PASS-20190413CHINC-124,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Danielle Colaprico",69,0.1,74.2,9.7,1
+PASS-20190413CHINC-125,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Alyssa Mautz",74.2,9.7,71.3,3.3,1
+PASS-20190413CHINC-126,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Jaelene Hinkle",70.7,11.3,83.1,4.8,0
+PASS-20190413CHINC-127,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","McCall Zerboni",28.2,63.2,33.6,58.5,1
+PASS-20190413CHINC-128,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Jessica McDonald",35.8,68,66.4,50.3,1
+PASS-20190413CHINC-129,20190413CHINC,"Katie Naughton","Chicago Red Stars","Sam Kerr",38.6,17.7,68.4,13.8,1
+PASS-20190413CHINC-13,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Sarah Gorden",38.2,59,74,55.7,0
+PASS-20190413CHINC-130,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Abby Erceg",31,58.2,25.3,51.7,1
+PASS-20190413CHINC-131,20190413CHINC,"Abby Erceg","North Carolina Courage","Merritt Mathias",20.5,49.2,40.2,17.7,1
+PASS-20190413CHINC-132,20190413CHINC,"Arin Wright","Chicago Red Stars","Sam Kerr",70.3,40.8,76.7,35.7,1
+PASS-20190413CHINC-133,20190413CHINC,"Sam Mewis","North Carolina Courage","Jaelene Hinkle",23.4,45.3,31,58.3,1
+PASS-20190413CHINC-134,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Jessica McDonald",42,61.8,62,60.4,1
+PASS-20190413CHINC-135,20190413CHINC,"Jessica McDonald","North Carolina Courage","Denise O'Sullivan",59.8,58.7,58.1,48.5,1
+PASS-20190413CHINC-136,20190413CHINC,"Denise O'Sullivan","North Carolina Courage","McCall Zerboni",53.9,49.5,55.8,43.4,1
+PASS-20190413CHINC-137,20190413CHINC,"Tierna Davidson","Chicago Red Stars","Merritt Mathias",57.8,30.1,93.2,41.3,0
+PASS-20190413CHINC-138,20190413CHINC,"Merritt Mathias","North Carolina Courage","Abby Dahlkemper",11.8,26.7,15,28.6,1
+PASS-20190413CHINC-139,20190413CHINC,"Julie Ertz","Chicago Red Stars","Abby Dahlkemper",90,39.4,90,39.4,0
+PASS-20190413CHINC-14,20190413CHINC,"Sarah Gorden","Chicago Red Stars","Alyssa Mautz",34.9,10.1,45.7,8.4,1
+PASS-20190413CHINC-140,20190413CHINC,"Abby Erceg","North Carolina Courage","Arin Wright",10.8,30,34.3,15.2,0
+PASS-20190413CHINC-141,20190413CHINC,"Arin Wright","Chicago Red Stars","Katie Naughton",68.8,59,57.9,57.5,1
+PASS-20190413CHINC-142,20190413CHINC,"Arin Wright","Chicago Red Stars","Yuki Nagasato",63.3,68,68.1,54.3,1
+PASS-20190413CHINC-143,20190413CHINC,"Yuki Nagasato","Chicago Red Stars","Danielle Colaprico",66.4,51.1,62.5,43.3,1
+PASS-20190413CHINC-144,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Alyssa Mautz",62.5,43.3,65.9,20.6,1
+PASS-20190413CHINC-145,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Sarah Gorden",65.9,20.6,51.8,31.5,1
+PASS-20190413CHINC-146,20190413CHINC,"Sarah Gorden","Chicago Red Stars","Tierna Davidson",38.5,30.1,36.5,40.4,1
+PASS-20190413CHINC-147,20190413CHINC,"Tierna Davidson","Chicago Red Stars","Arin Wright",36.6,45.6,80.7,61.6,1
+PASS-20190413CHINC-148,20190413CHINC,"Arin Wright","Chicago Red Stars","Merritt Mathias",63.4,66.2,80.7,61.6,0
+PASS-20190413CHINC-149,20190413CHINC,"Merritt Mathias","North Carolina Courage","Stephanie Labbe",24.3,6.4,5.1,17.3,1
+PASS-20190413CHINC-15,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Julie Ertz",45.7,8.4,90.7,33.2,1
+PASS-20190413CHINC-150,20190413CHINC,"Stephanie Labbe","North Carolina Courage","Abby Erceg",10.8,24.9,20.2,51.7,1
+PASS-20190413CHINC-151,20190413CHINC,"Abby Erceg","North Carolina Courage","Jaelene Hinkle",22.3,52,33.9,63.6,1
+PASS-20190413CHINC-152,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Abby Erceg",33.9,63.6,23.2,56.4,1
+PASS-20190413CHINC-153,20190413CHINC,"Abby Erceg","North Carolina Courage","Stephanie Labbe",19.8,51.7,12.3,40.1,1
+PASS-20190413CHINC-154,20190413CHINC,"Stephanie Labbe","North Carolina Courage","Abby Dahlkemper",14.6,36.9,24.4,18.4,1
+PASS-20190413CHINC-155,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Merritt Mathias",29.9,15.2,39.1,2.3,1
+PASS-20190413CHINC-156,20190413CHINC,"Merritt Mathias","North Carolina Courage","Sam Mewis",39.2,5.4,47,17.8,1
+PASS-20190413CHINC-157,20190413CHINC,"Sam Mewis","North Carolina Courage","Jessica McDonald",56.7,13.7,80.8,6.2,1
+PASS-20190413CHINC-158,20190413CHINC,"Jessica McDonald","North Carolina Courage","Danielle Colaprico",97.5,20.6,85.8,48.9,0
+PASS-20190413CHINC-159,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Sam Kerr",32.2,12.9,37.8,11.3,1
+PASS-20190413CHINC-16,20190413CHINC,"Julie Ertz","Chicago Red Stars","Stephanie Labbe",45.2,16.3,90.7,33.2,0
+PASS-20190413CHINC-160,20190413CHINC,"Sam Kerr","Chicago Red Stars","Danielle Colaprico",37.8,11.3,42,14.7,1
+PASS-20190413CHINC-161,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Jaelene Hinkle",29.4,13.1,42,14.7,0
+PASS-20190413CHINC-162,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Lynn Williams",67.6,62.7,78.5,59.6,1
+PASS-20190413CHINC-163,20190413CHINC,"Lynn Williams","North Carolina Courage","Jaelene Hinkle",74.3,58.7,63.8,59.8,1
+PASS-20190413CHINC-164,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Lynn Williams",69.2,58,79.4,56.1,1
+PASS-20190413CHINC-165,20190413CHINC,"Lynn Williams","North Carolina Courage","Crystal Dunn",76.8,54.7,69.6,49.6,1
+PASS-20190413CHINC-166,20190413CHINC,"Crystal Dunn","North Carolina Courage","Sam Mewis",71.4,46.7,67.7,32.5,1
+PASS-20190413CHINC-167,20190413CHINC,"Sam Mewis","North Carolina Courage","Merritt Mathias",71.7,27.2,81.4,4.4,1
+PASS-20190413CHINC-168,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Sam Mewis",105,0,95.9,3.5,1
+PASS-20190413CHINC-169,20190413CHINC,"Sam Mewis","North Carolina Courage","Sam Kerr",95.9,3.5,100.7,34.7,0
+PASS-20190413CHINC-17,20190413CHINC,"Stephanie Labbe","North Carolina Courage","Abby Dahlkemper",14.7,33.4,39.8,14.4,1
+PASS-20190413CHINC-170,20190413CHINC,"Abby Erceg","North Carolina Courage","Jaelene Hinkle",39.6,48.2,46.9,58.2,1
+PASS-20190413CHINC-171,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Crystal Dunn",46.9,58.2,75.2,62.4,1
+PASS-20190413CHINC-172,20190413CHINC,"Crystal Dunn","North Carolina Courage","Jessica McDonald",75.9,60.6,92.8,58,1
+PASS-20190413CHINC-173,20190413CHINC,"Jessica McDonald","North Carolina Courage","Lynn Williams",99,67.7,95.9,43.7,1
+PASS-20190413CHINC-174,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Jaelene Hinkle",22.6,7.9,33.6,10.4,0
+PASS-20190413CHINC-175,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Denise O'Sullivan",71.3,55.2,75.5,45,1
+PASS-20190413CHINC-176,20190413CHINC,"Denise O'Sullivan","North Carolina Courage","Jaelene Hinkle",74.9,48.5,70.3,59.7,1
+PASS-20190413CHINC-177,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Abby Dahlkemper",62.5,62,32.4,46.4,1
+PASS-20190413CHINC-178,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Abby Erceg",32.4,46.4,45.2,24.7,1
+PASS-20190413CHINC-179,20190413CHINC,"Abby Erceg","North Carolina Courage","Denise O'Sullivan",49.6,19.8,65.8,18.5,1
+PASS-20190413CHINC-18,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Tierna Davidson",39.8,14.4,67.1,9.7,0
+PASS-20190413CHINC-180,20190413CHINC,"Denise O'Sullivan","North Carolina Courage","Merritt Mathias",65.8,18.5,58.9,4.8,1
+PASS-20190413CHINC-181,20190413CHINC,"Merritt Mathias","North Carolina Courage","Arin Wright",67.6,5.6,74.9,7.7,0
+PASS-20190413CHINC-182,20190413CHINC,"Alyssa Naeher","Chicago Red Stars","Arin Wright",35.8,53.2,59.3,63.6,1
+PASS-20190413CHINC-183,20190413CHINC,"Arin Wright","Chicago Red Stars","Jaelene Hinkle",62.5,62.2,93.1,18.7,0
+PASS-20190413CHINC-184,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","McCall Zerboni",34.1,52.4,47.6,61.3,1
+PASS-20190413CHINC-185,20190413CHINC,"McCall Zerboni","North Carolina Courage","Crystal Dunn",47.6,61.3,69,59.9,1
+PASS-20190413CHINC-186,20190413CHINC,"Crystal Dunn","North Carolina Courage","Lynn Williams",76.7,55.5,95.3,57.2,1
+PASS-20190413CHINC-187,20190413CHINC,"Lynn Williams","North Carolina Courage","McCall Zerboni",96.6,59.9,76,50.7,1
+PASS-20190413CHINC-188,20190413CHINC,"McCall Zerboni","North Carolina Courage","Jaelene Hinkle",76,50.7,68.2,57.5,1
+PASS-20190413CHINC-189,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Sam Mewis",68.2,57.5,66.3,45.4,1
+PASS-20190413CHINC-19,20190413CHINC,"Tierna Davidson","Chicago Red Stars",NULL,37.9,58.3,48.2,68,0
+PASS-20190413CHINC-190,20190413CHINC,"Sam Mewis","North Carolina Courage","Merritt Mathias",66.7,44.4,67.5,11.8,1
+PASS-20190413CHINC-191,20190413CHINC,"Merritt Mathias","North Carolina Courage","Nikki Stanton",67.9,7.7,78.5,23.5,0
+PASS-20190413CHINC-192,20190413CHINC,"Denise O'Sullivan","North Carolina Courage","Sarah Gorden",92.5,18.3,99.5,51.1,0
+PASS-20190413CHINC-193,20190413CHINC,"Crystal Dunn","North Carolina Courage","Jessica McDonald",98,68,98,58.9,1
+PASS-20190413CHINC-194,20190413CHINC,"Jessica McDonald","North Carolina Courage","Crystal Dunn",98,58.9,97.7,64.3,1
+PASS-20190413CHINC-195,20190413CHINC,"Crystal Dunn","North Carolina Courage","Katie Naughton",101.3,61.5,101.3,38.5,0
+PASS-20190413CHINC-196,20190413CHINC,"Alyssa Naeher","Chicago Red Stars","Alyssa Mautz",5.6,17.1,49.5,15.3,1
+PASS-20190413CHINC-197,20190413CHINC,"Sam Mewis","North Carolina Courage","Denise O'Sullivan",55.5,52.7,69.3,42.4,1
+PASS-20190413CHINC-198,20190413CHINC,"Denise O'Sullivan","North Carolina Courage","Sarah Gorden",69.3,42.4,76.9,47.6,0
+PASS-20190413CHINC-199,20190413CHINC,"Sarah Gorden","Chicago Red Stars","Sam Mewis",28.5,21.9,35.8,18.8,0
+PASS-20190413CHINC-2,20190413CHINC,"Katie Naughton","Chicago Red Stars","Danielle Colaprico",30.6,26.4,46.3,20.5,1
+PASS-20190413CHINC-20,20190413CHINC,"Merritt Mathias","North Carolina Courage","Crystal Dunn",56.8,0,62.1,5,1
+PASS-20190413CHINC-200,20190413CHINC,"Sam Mewis","North Carolina Courage","Crystal Dunn",92.7,60.3,79.9,57.2,1
+PASS-20190413CHINC-201,20190413CHINC,"Crystal Dunn","North Carolina Courage","Jessica McDonald",101.2,56.3,101.8,38.5,1
+PASS-20190413CHINC-202,20190413CHINC,"Katie Naughton","Chicago Red Stars","McCall Zerboni",3.7,22.2,33.1,22.6,0
+PASS-20190413CHINC-203,20190413CHINC,"McCall Zerboni","North Carolina Courage","Jaelene Hinkle",71.9,45.4,71.1,52.5,1
+PASS-20190413CHINC-204,20190413CHINC,"Yuki Nagasato","Chicago Red Stars","Sarah Gorden",31.2,5.8,27,18.5,1
+PASS-20190413CHINC-205,20190413CHINC,"Sarah Gorden","Chicago Red Stars","Lynn Williams",27,18.5,31.2,37.7,0
+PASS-20190413CHINC-206,20190413CHINC,"Lynn Williams","North Carolina Courage","Sam Mewis",73.8,30.3,63.1,35.4,1
+PASS-20190413CHINC-207,20190413CHINC,"Sam Mewis","North Carolina Courage","Merritt Mathias",59.6,36,52.9,18.5,1
+PASS-20190413CHINC-208,20190413CHINC,"Merritt Mathias","North Carolina Courage","Denise O'Sullivan",63.3,12.4,70.5,15.7,1
+PASS-20190413CHINC-209,20190413CHINC,"Denise O'Sullivan","North Carolina Courage","Merritt Mathias",66.7,14,58,6.6,1
+PASS-20190413CHINC-21,20190413CHINC,"Crystal Dunn","North Carolina Courage","Merritt Mathias",60.6,7.6,57.4,3.3,1
+PASS-20190413CHINC-210,20190413CHINC,"Merritt Mathias","North Carolina Courage","Jessica McDonald",57.9,0,72.7,5.1,1
+PASS-20190413CHINC-211,20190413CHINC,"Jessica McDonald","North Carolina Courage","Merritt Mathias",72.7,5.1,63.3,3.4,1
+PASS-20190413CHINC-212,20190413CHINC,"Merritt Mathias","North Carolina Courage","Denise O'Sullivan",63.3,3.4,78,10.1,1
+PASS-20190413CHINC-213,20190413CHINC,"Denise O'Sullivan","North Carolina Courage","Tierna Davidson",77.3,9,82.4,9.8,0
+PASS-20190413CHINC-214,20190413CHINC,"Merritt Mathias","North Carolina Courage","Jessica McDonald",64.7,0,79.5,4.4,1
+PASS-20190413CHINC-215,20190413CHINC,"Jessica McDonald","North Carolina Courage","Merritt Mathias",79.5,4.4,69,3.7,1
+PASS-20190413CHINC-216,20190413CHINC,"Merritt Mathias","North Carolina Courage","Lynn Williams",68,7.6,94.5,29.8,1
+PASS-20190413CHINC-217,20190413CHINC,"Alyssa Naeher","Chicago Red Stars","Sam Kerr",15.1,31.3,66.8,53.8,1
+PASS-20190413CHINC-218,20190413CHINC,"Sam Kerr","Chicago Red Stars","Abby Erceg",61.3,50.6,77.6,42.6,0
+PASS-20190413CHINC-219,20190413CHINC,"Abby Erceg","North Carolina Courage","Abby Dahlkemper",32.4,18.4,25.3,14.9,1
+PASS-20190413CHINC-22,20190413CHINC,"Merritt Mathias","North Carolina Courage","Crystal Dunn",58.3,3.9,64.4,8,1
+PASS-20190413CHINC-220,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Sam Mewis",28.3,19.8,25.2,31.8,1
+PASS-20190413CHINC-221,20190413CHINC,"Sam Mewis","North Carolina Courage","Jaelene Hinkle",27,35.4,31.4,56.8,1
+PASS-20190413CHINC-222,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Lynn Williams",55,55.2,71.3,43.3,1
+PASS-20190413CHINC-223,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Katie Naughton",32.9,30.9,68.5,16,1
+PASS-20190413CHINC-224,20190413CHINC,"Katie Naughton","Chicago Red Stars","Abby Erceg",27.3,21.2,68.5,16,0
+PASS-20190413CHINC-225,20190413CHINC,"Abby Erceg","North Carolina Courage","Stephanie Labbe",30.8,47.2,20.2,45.4,1
+PASS-20190413CHINC-226,20190413CHINC,"Stephanie Labbe","North Carolina Courage","Abby Erceg",22.4,37.9,29.4,48.5,1
+PASS-20190413CHINC-227,20190413CHINC,"Abby Erceg","North Carolina Courage","Sam Mewis",32.6,48.5,46.1,54.4,1
+PASS-20190413CHINC-228,20190413CHINC,"Sam Mewis","North Carolina Courage","Lynn Williams",55,55.8,69.3,38.6,1
+PASS-20190413CHINC-229,20190413CHINC,"Lynn Williams","North Carolina Courage","Merritt Mathias",64.1,39.8,55.3,8.1,1
+PASS-20190413CHINC-23,20190413CHINC,"Yuki Nagasato","Chicago Red Stars","Danielle Colaprico",46.1,58.2,40.7,20.5,1
+PASS-20190413CHINC-230,20190413CHINC,"Merritt Mathias","North Carolina Courage","Denise O'Sullivan",57.5,9,77.3,20.4,1
+PASS-20190413CHINC-231,20190413CHINC,"Denise O'Sullivan","North Carolina Courage","Jessica McDonald",79.1,16.2,92.7,4.2,1
+PASS-20190413CHINC-232,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Arin Wright",94.5,7.2,100.5,30.3,0
+PASS-20190413CHINC-233,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Yuki Nagasato",17.7,38.5,31.1,39.3,1
+PASS-20190413CHINC-234,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Crystal Dunn",63.4,27.1,71,53,1
+PASS-20190413CHINC-235,20190413CHINC,"Crystal Dunn","North Carolina Courage","Tierna Davidson",82.8,49.9,91.1,32.9,0
+PASS-20190413CHINC-236,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Lynn Williams",23.8,27.8,29.5,23.3,0
+PASS-20190413CHINC-237,20190413CHINC,"Lynn Williams","North Carolina Courage","Sam Mewis",70.7,37.8,65.1,32.2,1
+PASS-20190413CHINC-238,20190413CHINC,"Sam Mewis","North Carolina Courage","McCall Zerboni",67.6,35.3,72.1,43.6,1
+PASS-20190413CHINC-239,20190413CHINC,"McCall Zerboni","North Carolina Courage","Abby Erceg",66.3,45.4,38.8,58.4,1
+PASS-20190413CHINC-24,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Jaelene Hinkle",43.7,42.8,40.7,20.5,0
+PASS-20190413CHINC-240,20190413CHINC,"Abby Erceg","North Carolina Courage","Sarah Gorden",50.1,56.5,79.4,56.6,0
+PASS-20190413CHINC-241,20190413CHINC,"Sarah Gorden","Chicago Red Stars","Julie Ertz",25.6,11.4,35.8,15.6,1
+PASS-20190413CHINC-242,20190413CHINC,"Julie Ertz","Chicago Red Stars","Arin Wright",41,30.5,38.8,52.3,1
+PASS-20190413CHINC-243,20190413CHINC,"Arin Wright","Chicago Red Stars",NULL,47.8,53.8,79.9,41.7,0
+PASS-20190413CHINC-244,20190413CHINC,"Stephanie Labbe","North Carolina Courage","Abby Dahlkemper",25.1,26.3,28,18.3,1
+PASS-20190413CHINC-245,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","McCall Zerboni",32,20.7,40.7,27.7,1
+PASS-20190413CHINC-246,20190413CHINC,"McCall Zerboni","North Carolina Courage","Crystal Dunn",54.2,21.5,58.8,11.2,1
+PASS-20190413CHINC-247,20190413CHINC,"Crystal Dunn","North Carolina Courage","Merritt Mathias",58.8,11.2,43.3,10.7,1
+PASS-20190413CHINC-248,20190413CHINC,"Merritt Mathias","North Carolina Courage","McCall Zerboni",45.2,10.8,58.1,14.2,1
+PASS-20190413CHINC-249,20190413CHINC,"McCall Zerboni","North Carolina Courage","Jessica McDonald",60.1,9.6,66.7,7.9,1
+PASS-20190413CHINC-25,20190413CHINC,"Lynn Williams","North Carolina Courage","McCall Zerboni",63.3,59.6,55.7,50.7,1
+PASS-20190413CHINC-250,20190413CHINC,"Merritt Mathias","North Carolina Courage","Abby Erceg",69.8,9.1,92.5,38.9,1
+PASS-20190413CHINC-251,20190413CHINC,"Stephanie Labbe","North Carolina Courage","Abby Dahlkemper",14,38.8,18.2,35.5,1
+PASS-20190413CHINC-252,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Abby Erceg",24,28.8,24.2,50.3,1
+PASS-20190413CHINC-253,20190413CHINC,"Abby Erceg","North Carolina Courage","Jaelene Hinkle",26.4,50.2,35.3,59.6,1
+PASS-20190413CHINC-254,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Abby Erceg",33.5,55.5,22.8,49.6,1
+PASS-20190413CHINC-255,20190413CHINC,"Yuki Nagasato","Chicago Red Stars","Sam Kerr",47.1,54,95.9,28.4,1
+PASS-20190413CHINC-256,20190413CHINC,"Abby Erceg","North Carolina Courage","Abby Dahlkemper",24.4,45.8,26.6,17,1
+PASS-20190413CHINC-257,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Denise O'Sullivan",44.9,18.8,59.3,7.7,1
+PASS-20190413CHINC-258,20190413CHINC,"Denise O'Sullivan","North Carolina Courage","Arin Wright",59.5,3.9,72.2,6,0
+PASS-20190413CHINC-259,20190413CHINC,"Arin Wright","Chicago Red Stars","Yuki Nagasato",37.5,56.8,46.9,53.5,1
+PASS-20190413CHINC-26,20190413CHINC,"McCall Zerboni","North Carolina Courage","Jaelene Hinkle",68.6,59.8,75.5,57.6,1
+PASS-20190413CHINC-260,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Sarah Gorden",56.8,53.5,94.2,60.3,0
+PASS-20190413CHINC-261,20190413CHINC,"Julie Ertz","Chicago Red Stars",NULL,2,6.3,7.2,0,0
+PASS-20190413CHINC-262,20190413CHINC,"Jessica McDonald","North Carolina Courage","Alyssa Mautz",97.8,68,92.1,55.9,0
+PASS-20190413CHINC-263,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Jaelene Hinkle",12.9,12.1,26.8,11.4,0
+PASS-20190413CHINC-264,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Crystal Dunn",78.2,56.6,94.1,61.8,1
+PASS-20190413CHINC-265,20190413CHINC,"Sarah Gorden","Chicago Red Stars","Katie Naughton",9.8,0,12.1,10.4,1
+PASS-20190413CHINC-266,20190413CHINC,"Katie Naughton","Chicago Red Stars","Sarah Gorden",12.1,10.4,22.7,7.9,1
+PASS-20190413CHINC-267,20190413CHINC,"Sarah Gorden","Chicago Red Stars","Abby Erceg",22.7,7.9,59.3,9,0
+PASS-20190413CHINC-268,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Danielle Colaprico",41.3,0,57.6,10.2,1
+PASS-20190413CHINC-269,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Julie Ertz",58,11.9,96.2,5.9,1
+PASS-20190413CHINC-27,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Lynn Williams",73,53.8,65.6,56.1,1
+PASS-20190413CHINC-270,20190413CHINC,"Julie Ertz","Chicago Red Stars","Abby Erceg",58.3,20.4,96.2,5.9,0
+PASS-20190413CHINC-271,20190413CHINC,"Abby Erceg","North Carolina Courage","Julie Ertz",5.1,63.2,30.3,56.4,0
+PASS-20190413CHINC-272,20190413CHINC,"McCall Zerboni","North Carolina Courage","Julie Ertz",22.6,54.2,26.6,55.3,0
+PASS-20190413CHINC-273,20190413CHINC,"Julie Ertz","Chicago Red Stars","Arin Wright",85.2,17.2,75.6,39.4,1
+PASS-20190413CHINC-274,20190413CHINC,"Arin Wright","Chicago Red Stars","Tierna Davidson",65.8,57.6,54.9,54.4,1
+PASS-20190413CHINC-275,20190413CHINC,"Tierna Davidson","Chicago Red Stars","Arin Wright",60,58.7,66.2,65.2,1
+PASS-20190413CHINC-276,20190413CHINC,"Arin Wright","Chicago Red Stars","Tierna Davidson",63.5,63.7,54.9,60.7,1
+PASS-20190413CHINC-277,20190413CHINC,"Tierna Davidson","Chicago Red Stars","Nikki Stanton",54.9,60.7,56.3,53.6,1
+PASS-20190413CHINC-278,20190413CHINC,"Nikki Stanton","Chicago Red Stars","Katie Naughton",53.4,53.6,38.1,49,1
+PASS-20190413CHINC-279,20190413CHINC,"Katie Naughton","Chicago Red Stars","Sarah Gorden",36,43.7,38.7,26.4,1
+PASS-20190413CHINC-28,20190413CHINC,"Lynn Williams","North Carolina Courage","Merritt Mathias",61.4,53.1,69.4,5.4,1
+PASS-20190413CHINC-280,20190413CHINC,"Sarah Gorden","Chicago Red Stars","Alyssa Mautz",47.2,24.6,56.2,12.5,1
+PASS-20190413CHINC-281,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Sam Kerr",63.8,10,74.3,21.2,1
+PASS-20190413CHINC-282,20190413CHINC,"Sam Kerr","Chicago Red Stars","Sam Mewis",74.3,21.2,68.5,25.7,0
+PASS-20190413CHINC-283,20190413CHINC,"Sam Mewis","North Carolina Courage","Crystal Dunn",36.2,47.8,91.2,40.6,1
+PASS-20190413CHINC-284,20190413CHINC,"Crystal Dunn","North Carolina Courage","Alyssa Naeher",49.9,54.6,91.2,40.6,0
+PASS-20190413CHINC-285,20190413CHINC,"Alyssa Naeher","Chicago Red Stars","Arin Wright",14.2,31.4,37.7,58.9,1
+PASS-20190413CHINC-286,20190413CHINC,"Arin Wright","Chicago Red Stars","Tierna Davidson",36.1,54.9,24.9,49,1
+PASS-20190413CHINC-287,20190413CHINC,"Tierna Davidson","Chicago Red Stars","Sam Kerr",26.2,46.4,59.2,23.2,1
+PASS-20190413CHINC-288,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Abby Erceg",34,62.4,25.5,46.1,1
+PASS-20190413CHINC-289,20190413CHINC,"Abby Erceg","North Carolina Courage","Abby Dahlkemper",27.2,40.3,34,21.2,1
+PASS-20190413CHINC-29,20190413CHINC,"Merritt Mathias","North Carolina Courage","Jessica McDonald",91.1,8,97.9,33.4,1
+PASS-20190413CHINC-290,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","McCall Zerboni",54.7,12.5,57,19.6,1
+PASS-20190413CHINC-291,20190413CHINC,"McCall Zerboni","North Carolina Courage","Abby Dahlkemper",55.5,14.7,46.3,11.7,1
+PASS-20190413CHINC-292,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Stephanie Labbe",46.3,11.7,19.4,23.2,1
+PASS-20190413CHINC-293,20190413CHINC,"Stephanie Labbe","North Carolina Courage","McCall Zerboni",19.4,23.2,34.7,26.3,1
+PASS-20190413CHINC-294,20190413CHINC,"McCall Zerboni","North Carolina Courage","Abby Erceg",33.9,29.8,29,49.3,1
+PASS-20190413CHINC-295,20190413CHINC,"Abby Erceg","North Carolina Courage","Jaelene Hinkle",44.4,50.4,58.5,60.1,1
+PASS-20190413CHINC-296,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","McCall Zerboni",49.7,56.1,46.9,46.4,1
+PASS-20190413CHINC-297,20190413CHINC,"McCall Zerboni","North Carolina Courage","Abby Erceg",50,49.6,36.1,52.5,1
+PASS-20190413CHINC-298,20190413CHINC,"Abby Erceg","North Carolina Courage","Abby Dahlkemper",34.1,49.3,32.6,24.6,1
+PASS-20190413CHINC-299,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Sam Mewis",38.3,22.6,58.1,24.7,1
+PASS-20190413CHINC-3,20190413CHINC,"McCall Zerboni","North Carolina Courage","Denise O'Sullivan",58.7,47.5,63.9,49.2,1
+PASS-20190413CHINC-30,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Denise O'Sullivan",105,68,94.9,61.9,1
+PASS-20190413CHINC-300,20190413CHINC,"Sam Mewis","North Carolina Courage","Alyssa Naeher",67.5,23.5,101.3,35.7,0
+PASS-20190413CHINC-301,20190413CHINC,"Alyssa Naeher","Chicago Red Stars",NULL,15,32.5,69.4,68,0
+PASS-20190413CHINC-302,20190413CHINC,"Merritt Mathias","North Carolina Courage","Denise O'Sullivan",35.6,0,44.5,9.6,1
+PASS-20190413CHINC-303,20190413CHINC,"Denise O'Sullivan","North Carolina Courage","Merritt Mathias",41.9,8.2,37.8,3.7,1
+PASS-20190413CHINC-304,20190413CHINC,"Merritt Mathias","North Carolina Courage","Abby Erceg",36.2,8.5,29.8,45,1
+PASS-20190413CHINC-305,20190413CHINC,"Abby Erceg","North Carolina Courage","Jaelene Hinkle",36.8,51.6,48.4,60.1,1
+PASS-20190413CHINC-306,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Jessica McDonald",57.1,59,75.1,49.6,1
+PASS-20190413CHINC-307,20190413CHINC,"Jessica McDonald","North Carolina Courage","Jaelene Hinkle",71.3,51.2,66.8,62.4,1
+PASS-20190413CHINC-308,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Katie Naughton",66.5,59.2,81.2,58.9,0
+PASS-20190413CHINC-309,20190413CHINC,"Jessica McDonald","North Carolina Courage","Sam Mewis",95.8,68,95.8,40.5,1
+PASS-20190413CHINC-31,20190413CHINC,"Denise O'Sullivan","North Carolina Courage","Jaelene Hinkle",92.4,60.8,76.9,48.4,1
+PASS-20190413CHINC-310,20190413CHINC,"Yuki Nagasato","Chicago Red Stars","Crystal Dunn",13.3,36.9,17.5,31.2,0
+PASS-20190413CHINC-311,20190413CHINC,"Alyssa Naeher","Chicago Red Stars","Danielle Colaprico",5.4,35.9,44.9,24.9,1
+PASS-20190413CHINC-312,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Sam Kerr",44.9,24.9,55.9,24.1,1
+PASS-20190413CHINC-313,20190413CHINC,"Sam Kerr","Chicago Red Stars","Abby Erceg",55.9,24.1,65.6,29.7,0
+PASS-20190413CHINC-314,20190413CHINC,"Abby Erceg","North Carolina Courage","Merritt Mathias",37.4,35.4,43.2,18.7,1
+PASS-20190413CHINC-315,20190413CHINC,"Merritt Mathias","North Carolina Courage",NULL,61.7,9.1,99.2,33.4,0
+PASS-20190413CHINC-316,20190413CHINC,"Alyssa Naeher","Chicago Red Stars","Arin Wright",5.8,34.6,42.4,42.7,1
+PASS-20190413CHINC-317,20190413CHINC,"Lynn Williams","North Carolina Courage","Arin Wright",62.6,25.3,62.6,25.3,0
+PASS-20190413CHINC-318,20190413CHINC,"Tierna Davidson","Chicago Red Stars",NULL,36,41.7,NULL,NULL,0
+PASS-20190413CHINC-319,20190413CHINC,"Yuki Nagasato","Chicago Red Stars","Arin Wright",47.8,61.7,41.2,54.9,1
+PASS-20190413CHINC-32,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Alyssa Naeher",77.2,47.7,97.8,32.9,0
+PASS-20190413CHINC-320,20190413CHINC,"Arin Wright","Chicago Red Stars","Sam Kerr",41.2,54.9,60.2,55,1
+PASS-20190413CHINC-321,20190413CHINC,"Sam Kerr","Chicago Red Stars","Nikki Stanton",58,54.2,47.8,53.5,1
+PASS-20190413CHINC-322,20190413CHINC,"Nikki Stanton","Chicago Red Stars","McCall Zerboni",47.8,53.5,64.2,56.1,0
+PASS-20190413CHINC-323,20190413CHINC,"McCall Zerboni","North Carolina Courage","Jaelene Hinkle",37.8,18.7,33.3,49.3,1
+PASS-20190413CHINC-324,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Crystal Dunn",40.9,58.1,71.9,57.5,1
+PASS-20190413CHINC-325,20190413CHINC,"Julie Ertz","Chicago Red Stars","Danielle Colaprico",15.2,21.6,27.8,11.9,1
+PASS-20190413CHINC-326,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Yuki Nagasato",36.9,14.5,53.7,38.6,1
+PASS-20190413CHINC-327,20190413CHINC,"Yuki Nagasato","Chicago Red Stars","Nikki Stanton",50.1,38,46.7,34.9,1
+PASS-20190413CHINC-328,20190413CHINC,"Nikki Stanton","Chicago Red Stars","Arin Wright",46.7,34.9,57.6,65.4,1
+PASS-20190413CHINC-329,20190413CHINC,"Arin Wright","Chicago Red Stars","Nikki Stanton",59.8,61.4,59.7,48.8,1
+PASS-20190413CHINC-33,20190413CHINC,"Crystal Dunn","North Carolina Courage","Danielle Colaprico",77.4,33.6,88.1,45.3,0
+PASS-20190413CHINC-330,20190413CHINC,"Nikki Stanton","Chicago Red Stars","Sam Kerr",64.7,45.3,80.1,26.7,1
+PASS-20190413CHINC-331,20190413CHINC,"Sam Kerr","Chicago Red Stars","Jaelene Hinkle",74.7,36.6,80.1,26.7,0
+PASS-20190413CHINC-332,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Denise O'Sullivan",24.9,41.3,33.3,20.4,1
+PASS-20190413CHINC-333,20190413CHINC,"Denise O'Sullivan","North Carolina Courage","Merritt Mathias",33.3,20.4,26.2,21.6,1
+PASS-20190413CHINC-334,20190413CHINC,"Merritt Mathias","North Carolina Courage","Alyssa Mautz",26.2,21.6,46.7,67.8,0
+PASS-20190413CHINC-335,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Danielle Colaprico",58.3,0.2,69.7,11.7,1
+PASS-20190413CHINC-336,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Abby Erceg",72.6,4.3,78.5,12.8,0
+PASS-20190413CHINC-337,20190413CHINC,"Abby Erceg","North Carolina Courage","Sam Mewis",28.6,53.8,78,25.3,1
+PASS-20190413CHINC-338,20190413CHINC,"Sam Mewis","North Carolina Courage","Tierna Davidson",39.6,55,78,25.3,0
+PASS-20190413CHINC-339,20190413CHINC,"Tierna Davidson","Chicago Red Stars","Katie Naughton",27,42.7,24.9,32.3,1
+PASS-20190413CHINC-34,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Alyssa Mautz",16.9,22.7,23.2,26.3,1
+PASS-20190413CHINC-340,20190413CHINC,"Katie Naughton","Chicago Red Stars","Sam Kerr",26,28.4,49.6,30.4,1
+PASS-20190413CHINC-341,20190413CHINC,"Sam Kerr","Chicago Red Stars","Julie Ertz",49.6,30.4,37.8,30.3,1
+PASS-20190413CHINC-342,20190413CHINC,"Julie Ertz","Chicago Red Stars","Danielle Colaprico",41.2,27.4,79,16.4,1
+PASS-20190413CHINC-343,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Sam Kerr",83.7,17.9,83.6,23,1
+PASS-20190413CHINC-344,20190413CHINC,"Sam Kerr","Chicago Red Stars","Alyssa Mautz",80.1,22.9,73.1,11.4,1
+PASS-20190413CHINC-345,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Stephanie Labbe",73.1,11.4,97.9,37.4,0
+PASS-20190413CHINC-346,20190413CHINC,"Stephanie Labbe","North Carolina Courage","Lynn Williams",12.2,26.6,39.9,9.1,1
+PASS-20190413CHINC-347,20190413CHINC,"Lynn Williams","North Carolina Courage","Jessica McDonald",48.3,0,66.4,7.7,1
+PASS-20190413CHINC-348,20190413CHINC,"Jessica McDonald","North Carolina Courage","Denise O'Sullivan",73,11.7,75.6,22.9,1
+PASS-20190413CHINC-349,20190413CHINC,"Merritt Mathias","North Carolina Courage","Abby Erceg",83.6,0,94.8,20.9,1
+PASS-20190413CHINC-35,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Sam Kerr",23.2,26.3,35.6,26.5,1
+PASS-20190413CHINC-350,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Sam Mewis",105,0,97.1,3.2,1
+PASS-20190413CHINC-351,20190413CHINC,"Sam Mewis","North Carolina Courage","Abby Erceg",97.1,3.2,100.4,38,1
+PASS-20190413CHINC-352,20190413CHINC,"Abby Erceg","North Carolina Courage","Katie Naughton",100.4,38,100.4,38,0
+PASS-20190413CHINC-353,20190413CHINC,"Yuki Nagasato","Chicago Red Stars","Sam Kerr",6.8,34.8,14.8,24.3,1
+PASS-20190413CHINC-354,20190413CHINC,"Alyssa Naeher","Chicago Red Stars","Yuki Nagasato",20,22.4,64.6,24.9,1
+PASS-20190413CHINC-355,20190413CHINC,"Sam Mewis","North Carolina Courage","Yuki Nagasato",40.4,43.1,40.4,43.1,0
+PASS-20190413CHINC-356,20190413CHINC,"Arin Wright","Chicago Red Stars","Yuki Nagasato",53.3,34,62.1,28.4,1
+PASS-20190413CHINC-357,20190413CHINC,"Yuki Nagasato","Chicago Red Stars","Danielle Colaprico",62.1,28.4,70,25.2,1
+PASS-20190413CHINC-358,20190413CHINC,"Danielle Colaprico","Chicago Red Stars",NULL,70.9,25,80.2,24,0
+PASS-20190413CHINC-359,20190413CHINC,"Abby Erceg","North Carolina Courage","McCall Zerboni",24.8,44,30.3,60.1,1
+PASS-20190413CHINC-36,20190413CHINC,"McCall Zerboni","North Carolina Courage","Jessica McDonald",74.6,42.7,90.7,32.3,1
+PASS-20190413CHINC-360,20190413CHINC,"McCall Zerboni","North Carolina Courage","Crystal Dunn",35,55.8,51.2,61,1
+PASS-20190413CHINC-361,20190413CHINC,"Crystal Dunn","North Carolina Courage","McCall Zerboni",55.7,61.7,51.1,54.7,1
+PASS-20190413CHINC-362,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Alyssa Mautz",53.9,13.3,58.9,9.1,1
+PASS-20190413CHINC-363,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Jaelene Hinkle",61.2,8.5,74.2,14.2,0
+PASS-20190413CHINC-364,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Sam Mewis",36.4,50.5,36,37.7,1
+PASS-20190413CHINC-365,20190413CHINC,"Sam Mewis","North Carolina Courage","Yuki Nagasato",36.2,40.3,39.2,42.7,0
+PASS-20190413CHINC-366,20190413CHINC,"Yuki Nagasato","Chicago Red Stars","Danielle Colaprico",65.8,25.3,68.5,19,1
+PASS-20190413CHINC-367,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Sam Kerr",68.5,19,74.7,28,1
+PASS-20190413CHINC-368,20190413CHINC,"Sam Kerr","Chicago Red Stars","Yuki Nagasato",72.4,30.6,67.3,34.8,1
+PASS-20190413CHINC-369,20190413CHINC,"Yuki Nagasato","Chicago Red Stars","Merritt Mathias",71.4,36.6,79,41,0
+PASS-20190413CHINC-37,20190413CHINC,"Jessica McDonald","North Carolina Courage","Lynn Williams",90.7,32.3,89.4,44.4,1
+PASS-20190413CHINC-370,20190413CHINC,"Merritt Mathias","North Carolina Courage","Alyssa Mautz",26,27,41.9,48.1,0
+PASS-20190413CHINC-371,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Sam Kerr",70.6,18.2,71.5,17.8,1
+PASS-20190413CHINC-372,20190413CHINC,"Sam Kerr","Chicago Red Stars","Crystal Dunn",78.9,23.5,71.5,17.8,0
+PASS-20190413CHINC-373,20190413CHINC,"Crystal Dunn","North Carolina Courage","Jessica McDonald",31.2,54.1,39.9,63.8,1
+PASS-20190413CHINC-374,20190413CHINC,"Jessica McDonald","North Carolina Courage","Nikki Stanton",61.3,42,70.9,39.9,0
+PASS-20190413CHINC-375,20190413CHINC,"Yuki Nagasato","Chicago Red Stars","Julie Ertz",43.6,46.2,34.9,38.2,1
+PASS-20190413CHINC-376,20190413CHINC,"Julie Ertz","Chicago Red Stars","Arin Wright",35,43,33.5,59.7,1
+PASS-20190413CHINC-377,20190413CHINC,"Arin Wright","Chicago Red Stars","Julie Ertz",45.7,62,38.5,52.7,1
+PASS-20190413CHINC-378,20190413CHINC,"Julie Ertz","Chicago Red Stars","Yuki Nagasato",45.4,54.9,58.1,56.6,1
+PASS-20190413CHINC-379,20190413CHINC,"Yuki Nagasato","Chicago Red Stars","Arin Wright",61,58.6,76.3,61.8,1
+PASS-20190413CHINC-38,20190413CHINC,"Alyssa Naeher","Chicago Red Stars","Julie Ertz",5.1,34.4,45.8,24.2,1
+PASS-20190413CHINC-380,20190413CHINC,"Arin Wright","Chicago Red Stars","Sam Kerr",75.3,54.7,80.2,46.4,1
+PASS-20190413CHINC-381,20190413CHINC,"Sam Kerr","Chicago Red Stars","Arin Wright",80.2,46.4,99,60.9,1
+PASS-20190413CHINC-382,20190413CHINC,"Arin Wright","Chicago Red Stars","Abby Erceg",96.9,60.9,93.7,38.9,0
+PASS-20190413CHINC-383,20190413CHINC,"Lynn Williams","North Carolina Courage","Sarah Gorden",31.9,46.5,41.9,46.4,0
+PASS-20190413CHINC-384,20190413CHINC,"Sarah Gorden","Chicago Red Stars","Alyssa Mautz",63.1,21.6,74,3.6,1
+PASS-20190413CHINC-385,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Danielle Colaprico",80.5,3.7,76.4,13.4,1
+PASS-20190413CHINC-386,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Nikki Stanton",72.4,12.1,62.1,17.2,1
+PASS-20190413CHINC-387,20190413CHINC,"Nikki Stanton","Chicago Red Stars","Tierna Davidson",57.4,21.9,46.5,36.6,1
+PASS-20190413CHINC-388,20190413CHINC,"Tierna Davidson","Chicago Red Stars","Julie Ertz",58.7,37.6,84.9,21.3,1
+PASS-20190413CHINC-389,20190413CHINC,"Julie Ertz","Chicago Red Stars","Abby Erceg",84.9,21.3,89.4,22.4,0
+PASS-20190413CHINC-39,20190413CHINC,"McCall Zerboni","North Carolina Courage","Julie Ertz",59.2,43.8,59.2,43.8,0
+PASS-20190413CHINC-390,20190413CHINC,"Abby Erceg","North Carolina Courage","Alyssa Mautz",12.7,45.1,32.3,56.4,0
+PASS-20190413CHINC-391,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Sam Kerr",76.7,15,89.5,31.1,1
+PASS-20190413CHINC-392,20190413CHINC,"Sam Kerr","Chicago Red Stars","Abby Dahlkemper",89.5,31.1,89.5,31.1,0
+PASS-20190413CHINC-393,20190413CHINC,"Stephanie Labbe","North Carolina Courage","Sam Mewis",12.5,29.5,21.1,24.3,1
+PASS-20190413CHINC-394,20190413CHINC,"Sam Mewis","North Carolina Courage","Crystal Dunn",34.7,20.4,40.4,24.3,1
+PASS-20190413CHINC-395,20190413CHINC,"Crystal Dunn","North Carolina Courage","Lynn Williams",47.4,27,82.4,47.9,1
+PASS-20190413CHINC-396,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Sam Mewis",105,0,87.7,9,1
+PASS-20190413CHINC-397,20190413CHINC,"Sam Mewis","North Carolina Courage","Merritt Mathias",87.7,9,78.8,30.6,1
+PASS-20190413CHINC-398,20190413CHINC,"Alyssa Naeher","Chicago Red Stars","Julie Ertz",5.5,35.1,34.9,20.7,1
+PASS-20190413CHINC-399,20190413CHINC,"Julie Ertz","Chicago Red Stars","Danielle Colaprico",34.9,20.7,59.6,8.3,1
+PASS-20190413CHINC-4,20190413CHINC,"Denise O'Sullivan","North Carolina Courage","Sam Kerr",57.1,46,49,37.6,0
+PASS-20190413CHINC-40,20190413CHINC,"Sarah Gorden","Chicago Red Stars","Tierna Davidson",28.7,25.3,22,26.7,1
+PASS-20190413CHINC-400,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Abby Erceg",34.3,58.6,28.2,50.8,1
+PASS-20190413CHINC-401,20190413CHINC,"Abby Erceg","North Carolina Courage","Jessica McDonald",30.7,47.8,58,46.2,1
+PASS-20190413CHINC-402,20190413CHINC,"Jessica McDonald","North Carolina Courage","Tierna Davidson",58,46.2,76.4,34,0
+PASS-20190413CHINC-403,20190413CHINC,"Tierna Davidson","Chicago Red Stars","Alyssa Naeher",28.6,34,13.5,32.1,1
+PASS-20190413CHINC-404,20190413CHINC,"Alyssa Naeher","Chicago Red Stars","Abby Erceg",13.5,32.1,59.1,21.8,0
+PASS-20190413CHINC-405,20190413CHINC,"Abby Erceg","North Carolina Courage","Tierna Davidson",45.9,46.2,72.2,34.9,0
+PASS-20190413CHINC-406,20190413CHINC,"Tierna Davidson","Chicago Red Stars","Alyssa Mautz",31.4,31.7,38.5,21,1
+PASS-20190413CHINC-407,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Jaelene Hinkle",39.8,19.8,48.8,18.2,0
+PASS-20190413CHINC-408,20190413CHINC,"Julie Ertz","Chicago Red Stars","Arin Wright",37.4,37.2,41.1,51,1
+PASS-20190413CHINC-409,20190413CHINC,"Arin Wright","Chicago Red Stars","Yuki Nagasato",44.5,53.3,58.1,62.6,1
+PASS-20190413CHINC-41,20190413CHINC,"Jessica McDonald","North Carolina Courage","Sam Mewis",92.9,68,93.3,41.5,1
+PASS-20190413CHINC-410,20190413CHINC,"Yuki Nagasato","Chicago Red Stars","Julie Ertz",60,58.7,64.1,51.9,1
+PASS-20190413CHINC-411,20190413CHINC,"Julie Ertz","Chicago Red Stars",NULL,72.8,51.3,92.9,68,0
+PASS-20190413CHINC-412,20190413CHINC,"Merritt Mathias","North Carolina Courage","McCall Zerboni",12.1,0,24.9,20.2,1
+PASS-20190413CHINC-413,20190413CHINC,"McCall Zerboni","North Carolina Courage","Denise O'Sullivan",24.9,20.2,33.9,14.8,1
+PASS-20190413CHINC-414,20190413CHINC,"Denise O'Sullivan","North Carolina Courage","Merritt Mathias",32.7,9.7,21.3,4.2,1
+PASS-20190413CHINC-415,20190413CHINC,"Merritt Mathias","North Carolina Courage","Denise O'Sullivan",28.6,5.7,33.1,11.6,1
+PASS-20190413CHINC-416,20190413CHINC,"Denise O'Sullivan","North Carolina Courage","Abby Erceg",31.1,16.7,16.4,35.5,1
+PASS-20190413CHINC-417,20190413CHINC,"Abby Erceg","North Carolina Courage","Jaelene Hinkle",18.8,36.3,29.5,54.4,1
+PASS-20190413CHINC-418,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Crystal Dunn",36.2,55.3,72.1,58.4,1
+PASS-20190413CHINC-419,20190413CHINC,"Crystal Dunn","North Carolina Courage","Lynn Williams",76.9,46.2,91,23.3,1
+PASS-20190413CHINC-42,20190413CHINC,"Yuki Nagasato","Chicago Red Stars","McCall Zerboni",26.8,37,30.3,32.5,0
+PASS-20190413CHINC-420,20190413CHINC,"Lynn Williams","North Carolina Courage","Denise O'Sullivan",85.2,28.4,87.3,33.8,1
+PASS-20190413CHINC-421,20190413CHINC,"Denise O'Sullivan","North Carolina Courage","Crystal Dunn",89.8,34.6,89.4,42.8,1
+PASS-20190413CHINC-422,20190413CHINC,"Sarah Gorden","Chicago Red Stars","Crystal Dunn",11,0,23.4,4.9,0
+PASS-20190413CHINC-423,20190413CHINC,"Nikki Stanton","Chicago Red Stars","Sam Kerr",26.1,24.1,36.5,16.5,1
+PASS-20190413CHINC-424,20190413CHINC,"Sam Kerr","Chicago Red Stars","Danielle Colaprico",36.5,16.5,28.2,17.2,1
+PASS-20190413CHINC-425,20190413CHINC,"Julie Ertz","Chicago Red Stars","Sarah Gorden",27.4,19.5,61,0.6,1
+PASS-20190413CHINC-426,20190413CHINC,"Sarah Gorden","Chicago Red Stars","Abby Erceg",26,8,76.9,4.5,0
+PASS-20190413CHINC-427,20190413CHINC,"Abby Erceg","North Carolina Courage","Abby Dahlkemper",28.1,63.5,31,32.8,1
+PASS-20190413CHINC-428,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Merritt Mathias",39.4,24.3,48.8,7,1
+PASS-20190413CHINC-429,20190413CHINC,"Merritt Mathias","North Carolina Courage","Abby Dahlkemper",48,11.1,36.8,19.2,1
+PASS-20190413CHINC-43,20190413CHINC,"McCall Zerboni","North Carolina Courage","Alyssa Naeher",72.7,27.8,103.4,17.1,0
+PASS-20190413CHINC-430,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Abby Erceg",37.4,22.3,31.8,48.8,1
+PASS-20190413CHINC-431,20190413CHINC,"Abby Erceg","North Carolina Courage","Jaelene Hinkle",38.5,51,55,58.9,1
+PASS-20190413CHINC-432,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Abby Erceg",44.9,52.1,32.3,51.9,1
+PASS-20190413CHINC-433,20190413CHINC,"Abby Erceg","North Carolina Courage","Abby Dahlkemper",34.8,46.1,37.9,30,1
+PASS-20190413CHINC-434,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Merritt Mathias",44.9,19.5,56.6,6.2,1
+PASS-20190413CHINC-435,20190413CHINC,"Merritt Mathias","North Carolina Courage","Arin Wright",56.6,6.2,72.7,15,0
+PASS-20190413CHINC-436,20190413CHINC,"Arin Wright","Chicago Red Stars","Abby Erceg",36.9,50.7,68.8,41.7,0
+PASS-20190413CHINC-437,20190413CHINC,"Abby Erceg","North Carolina Courage","Jaelene Hinkle",37.5,31.1,45,53.8,1
+PASS-20190413CHINC-438,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","McCall Zerboni",48.3,56.4,48.6,46.2,1
+PASS-20190413CHINC-439,20190413CHINC,"McCall Zerboni","North Carolina Courage","Abby Erceg",45.2,49.3,35.4,38.3,1
+PASS-20190413CHINC-44,20190413CHINC,"Alyssa Naeher","Chicago Red Stars","Sam Kerr",16.5,24.9,61.7,24.3,1
+PASS-20190413CHINC-440,20190413CHINC,"Abby Erceg","North Carolina Courage","Abby Dahlkemper",35.4,38.3,34.8,22.7,1
+PASS-20190413CHINC-441,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Merritt Mathias",40.3,20.4,56.6,3.9,1
+PASS-20190413CHINC-442,20190413CHINC,"Merritt Mathias","North Carolina Courage","Sarah Gorden",58.7,2.5,93.6,67.8,0
+PASS-20190413CHINC-443,20190413CHINC,"Sarah Gorden","Chicago Red Stars","Julie Ertz",11.4,0.2,31.2,8,1
+PASS-20190413CHINC-444,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Jaelene Hinkle",80.2,45.9,76.1,31.1,1
+PASS-20190413CHINC-445,20190413CHINC,"Alyssa Naeher","Chicago Red Stars","Julie Ertz",5.6,32.8,47.5,19.9,1
+PASS-20190413CHINC-446,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Sam Kerr",58.8,20.7,70.7,20.1,1
+PASS-20190413CHINC-447,20190413CHINC,"Sam Kerr","Chicago Red Stars","McCall Zerboni",66.5,16.4,58.5,19.8,0
+PASS-20190413CHINC-448,20190413CHINC,"McCall Zerboni","North Carolina Courage","Sarah Gorden",46.5,48.2,58,56.3,0
+PASS-20190413CHINC-449,20190413CHINC,"Sarah Gorden","Chicago Red Stars","Stephanie Labbe",51.1,6.8,96.5,20.6,0
+PASS-20190413CHINC-45,20190413CHINC,"Yuki Nagasato","Chicago Red Stars","Sam Mewis",67.2,28.7,62.3,20.2,0
+PASS-20190413CHINC-450,20190413CHINC,"Stephanie Labbe","North Carolina Courage","Abby Erceg",8.5,47.4,21.7,52.2,1
+PASS-20190413CHINC-451,20190413CHINC,"Abby Erceg","North Carolina Courage","Abby Dahlkemper",18.2,45.3,25.3,22.9,1
+PASS-20190413CHINC-452,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Jessica McDonald",33.9,21.2,74.8,43.6,1
+PASS-20190413CHINC-453,20190413CHINC,"Jessica McDonald","North Carolina Courage","Sarah Gorden",74.8,43.6,81.2,44,0
+PASS-20190413CHINC-454,20190413CHINC,"Jessica McDonald","North Carolina Courage","Sam Mewis",81.4,41.7,99,51.2,1
+PASS-20190413CHINC-455,20190413CHINC,"Sam Mewis","North Carolina Courage","Julie Ertz",99,51.2,52.5,33.7,0
+PASS-20190413CHINC-456,20190413CHINC,"Julie Ertz","Chicago Red Stars",NULL,52.5,34.3,92.2,68,0
+PASS-20190413CHINC-457,20190413CHINC,"Merritt Mathias","North Carolina Courage","Jessica McDonald",12.8,0,24.1,5.9,1
+PASS-20190413CHINC-458,20190413CHINC,"Jessica McDonald","North Carolina Courage","Julie Ertz",24.4,5.9,30.7,7,0
+PASS-20190413CHINC-459,20190413CHINC,"Tierna Davidson","Chicago Red Stars","Abby Dahlkemper",71.2,63,79.6,50.1,0
+PASS-20190413CHINC-46,20190413CHINC,"Sam Mewis","North Carolina Courage","Jaelene Hinkle",42.7,47.8,32.9,58.3,1
+PASS-20190413CHINC-460,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Julie Ertz",25.4,17.9,34.2,18.6,0
+PASS-20190413CHINC-461,20190413CHINC,"Julie Ertz","Chicago Red Stars","Sam Kerr",72.9,42.4,92.4,42.9,1
+PASS-20190413CHINC-462,20190413CHINC,"Stephanie Labbe","North Carolina Courage","Abby Erceg",5.2,33,17.9,50.9,1
+PASS-20190413CHINC-463,20190413CHINC,"Abby Erceg","North Carolina Courage","Alyssa Mautz",18.7,51.4,36.1,61.4,0
+PASS-20190413CHINC-464,20190413CHINC,"Abby Erceg","North Carolina Courage","Stephanie Labbe",8.2,64.1,8.4,35.4,1
+PASS-20190413CHINC-465,20190413CHINC,"Stephanie Labbe","North Carolina Courage","Abby Erceg",14.5,36.5,26.9,54.9,1
+PASS-20190413CHINC-466,20190413CHINC,"Abby Erceg","North Carolina Courage","Jaelene Hinkle",28.6,56,43.7,66,1
+PASS-20190413CHINC-467,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Abby Erceg",43.7,66,29.2,58.4,1
+PASS-20190413CHINC-468,20190413CHINC,"Abby Erceg","North Carolina Courage","Stephanie Labbe",27.9,56.8,19.5,38,1
+PASS-20190413CHINC-469,20190413CHINC,"Stephanie Labbe","North Carolina Courage","Abby Erceg",19.5,38,30.5,53.4,1
+PASS-20190413CHINC-47,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Sarah Gorden",38.5,58.7,83.9,59.3,0
+PASS-20190413CHINC-470,20190413CHINC,"Abby Erceg","North Carolina Courage","Jaelene Hinkle",45.8,57.3,56.9,67.6,1
+PASS-20190413CHINC-471,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Jessica McDonald",56.9,67.6,58.8,60.1,1
+PASS-20190413CHINC-472,20190413CHINC,"Julie Ertz","Chicago Red Stars","Danielle Colaprico",46,9.6,55.2,6.8,1
+PASS-20190413CHINC-473,20190413CHINC,"Abby Erceg","North Carolina Courage","Jessica McDonald",54,63.4,56.9,57.3,1
+PASS-20190413CHINC-474,20190413CHINC,"Jessica McDonald","North Carolina Courage","Merritt Mathias",56.1,39.6,62.2,15.3,1
+PASS-20190413CHINC-475,20190413CHINC,"Alyssa Naeher","Chicago Red Stars","Arin Wright",11.1,33.5,19.1,62.8,1
+PASS-20190413CHINC-476,20190413CHINC,"Denise O'Sullivan","North Carolina Courage","Jessica McDonald",78.1,0,95.8,9.2,1
+PASS-20190413CHINC-477,20190413CHINC,"Jessica McDonald","North Carolina Courage",NULL,103.7,11.8,80.4,68,0
+PASS-20190413CHINC-478,20190413CHINC,"Sarah Gorden","Chicago Red Stars","Danielle Colaprico",24.6,0,34.9,1.5,1
+PASS-20190413CHINC-479,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Sarah Gorden",34.9,1.5,27.7,0.9,1
+PASS-20190413CHINC-48,20190413CHINC,"Sarah Gorden","Chicago Red Stars",NULL,10.4,7.2,28.2,0,0
+PASS-20190413CHINC-480,20190413CHINC,"Sarah Gorden","Chicago Red Stars",NULL,27.7,0.9,47.5,0,0
+PASS-20190413CHINC-481,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Jessica McDonald",57.5,68,61.3,63,1
+PASS-20190413CHINC-482,20190413CHINC,"Jessica McDonald","North Carolina Courage","Jaelene Hinkle",61.3,63,55.7,66.9,1
+PASS-20190413CHINC-483,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Alyssa Mautz",56.5,66.3,58,65.4,0
+PASS-20190413CHINC-484,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Abby Dahlkemper",51.9,66.5,29,32.1,1
+PASS-20190413CHINC-485,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Arin Wright",28.8,29.7,52.7,13.1,0
+PASS-20190413CHINC-486,20190413CHINC,"Yuki Nagasato","Chicago Red Stars","Nikki Stanton",57.8,47.7,52.5,47.2,1
+PASS-20190413CHINC-487,20190413CHINC,"Nikki Stanton","Chicago Red Stars","Julie Ertz",52.5,47.2,51.5,38,1
+PASS-20190413CHINC-488,20190413CHINC,"Julie Ertz","Chicago Red Stars",NULL,53.8,38.3,91.6,68,0
+PASS-20190413CHINC-489,20190413CHINC,"Merritt Mathias","North Carolina Courage","Jessica McDonald",13.4,0,23.9,2.2,1
+PASS-20190413CHINC-49,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Jessica McDonald",76.8,68,78.1,57.4,1
+PASS-20190413CHINC-490,20190413CHINC,"Jessica McDonald","North Carolina Courage","Merritt Mathias",23.9,2.2,32.1,9,1
+PASS-20190413CHINC-491,20190413CHINC,"Merritt Mathias","North Carolina Courage","Julie Ertz",19.1,5.5,32.1,9,0
+PASS-20190413CHINC-492,20190413CHINC,"Julie Ertz","Chicago Red Stars","Arin Wright",72.9,59,80.8,63.2,1
+PASS-20190413CHINC-493,20190413CHINC,"Arin Wright","Chicago Red Stars","Tierna Davidson",78.3,63.8,67.6,63.8,1
+PASS-20190413CHINC-494,20190413CHINC,"Tierna Davidson","Chicago Red Stars","Sam Kerr",67.6,63.8,102.9,60.3,1
+PASS-20190413CHINC-495,20190413CHINC,"Sam Kerr","Chicago Red Stars","Yuki Nagasato",102.1,63.2,96.2,64.5,1
+PASS-20190413CHINC-496,20190413CHINC,"Yuki Nagasato","Chicago Red Stars","Danielle Colaprico",91.6,61.2,94.7,32.6,1
+PASS-20190413CHINC-497,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Alyssa Mautz",3.8,55.1,30,57.1,0
+PASS-20190413CHINC-498,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Julie Ertz",75,10.9,85.1,21.9,1
+PASS-20190413CHINC-499,20190413CHINC,"Julie Ertz","Chicago Red Stars","Yuki Nagasato",84.2,23.8,76.9,39.1,1
+PASS-20190413CHINC-5,20190413CHINC,"Sam Kerr","Chicago Red Stars","Yuki Nagasato",54.1,28.9,84.3,30.5,1
+PASS-20190413CHINC-50,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Danielle Colaprico",27.8,8.6,35,13.5,1
+PASS-20190413CHINC-500,20190413CHINC,"Yuki Nagasato","Chicago Red Stars","Julie Ertz",76.9,39.1,82.3,46.8,1
+PASS-20190413CHINC-501,20190413CHINC,"Julie Ertz","Chicago Red Stars",NULL,82.3,46.8,86.5,46.6,0
+PASS-20190413CHINC-502,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","McCall Zerboni",18.5,21.4,29.2,24.7,1
+PASS-20190413CHINC-503,20190413CHINC,"McCall Zerboni","North Carolina Courage","Abby Dahlkemper",29.2,24.7,18.3,13.1,1
+PASS-20190413CHINC-504,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Abby Erceg",24.4,19.9,27.3,50.3,1
+PASS-20190413CHINC-505,20190413CHINC,"Abby Erceg","North Carolina Courage","Sam Mewis",32.3,53.1,44.5,62.3,1
+PASS-20190413CHINC-506,20190413CHINC,"Sam Mewis","North Carolina Courage","Denise O'Sullivan",45.6,58.2,48.3,45,1
+PASS-20190413CHINC-507,20190413CHINC,"Denise O'Sullivan","North Carolina Courage","Abby Erceg",44.1,50.3,32.1,48.3,1
+PASS-20190413CHINC-508,20190413CHINC,"Abby Erceg","North Carolina Courage","Merritt Mathias",32.3,45.9,51.2,12.5,1
+PASS-20190413CHINC-509,20190413CHINC,"Merritt Mathias","North Carolina Courage","McCall Zerboni",50.2,13.1,55.2,20.6,1
+PASS-20190413CHINC-51,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Julie Ertz",35,13.5,28.9,14,1
+PASS-20190413CHINC-510,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Abby Erceg",55.9,19.9,50.2,37.4,1
+PASS-20190413CHINC-511,20190413CHINC,"Abby Erceg","North Carolina Courage","Sam Mewis",50.8,37.6,59.4,61.7,1
+PASS-20190413CHINC-512,20190413CHINC,"Sam Mewis","North Carolina Courage","Jaelene Hinkle",71.8,64.7,78.8,66.7,1
+PASS-20190413CHINC-513,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Denise O'Sullivan",77.1,68,77.7,62.5,1
+PASS-20190413CHINC-514,20190413CHINC,"Denise O'Sullivan","North Carolina Courage","Sam Mewis",75.6,63.8,61.5,66.9,1
+PASS-20190413CHINC-515,20190413CHINC,"Sam Mewis","North Carolina Courage",NULL,77.9,58.8,93.9,46.8,0
+PASS-20190413CHINC-516,20190413CHINC,"Alyssa Naeher","Chicago Red Stars","Yuki Nagasato",11.1,21.2,55.4,15.1,1
+PASS-20190413CHINC-517,20190413CHINC,"McCall Zerboni","North Carolina Courage","Abby Erceg",47.7,45,39.7,49.6,1
+PASS-20190413CHINC-518,20190413CHINC,"Abby Erceg","North Carolina Courage","Lynn Williams",41.6,50.9,66.8,52.3,1
+PASS-20190413CHINC-519,20190413CHINC,"Arin Wright","Chicago Red Stars","Jaelene Hinkle",32.6,30.4,67.4,8.3,0
+PASS-20190413CHINC-52,20190413CHINC,"Julie Ertz","Chicago Red Stars","Sam Kerr",28.9,14,40.4,13.3,1
+PASS-20190413CHINC-520,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Alyssa Mautz",37.6,59.7,40.3,61,0
+PASS-20190413CHINC-521,20190413CHINC,"Abby Erceg","North Carolina Courage","Sam Mewis",31.9,58.2,37.4,57.9,1
+PASS-20190413CHINC-522,20190413CHINC,"Sam Mewis","North Carolina Courage","Alyssa Naeher",41.8,58.6,94.9,31.9,0
+PASS-20190413CHINC-523,20190413CHINC,"Alyssa Naeher","Chicago Red Stars","Sam Kerr",15.3,32.6,70.3,30.8,1
+PASS-20190413CHINC-524,20190413CHINC,"Crystal Dunn","North Carolina Courage","Merritt Mathias",31.7,1.7,28.8,10.7,1
+PASS-20190413CHINC-525,20190413CHINC,"Merritt Mathias","North Carolina Courage","McCall Zerboni",28.8,10.7,40.5,31.7,1
+PASS-20190413CHINC-526,20190413CHINC,"McCall Zerboni","North Carolina Courage","Danielle Colaprico",45.8,21.2,40.5,31.7,0
+PASS-20190413CHINC-527,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Yuki Nagasato",64.5,36.3,72.7,56.2,1
+PASS-20190413CHINC-528,20190413CHINC,"Yuki Nagasato","Chicago Red Stars","Arin Wright",75.2,60.3,58,59.5,1
+PASS-20190413CHINC-529,20190413CHINC,"Arin Wright","Chicago Red Stars","Julie Ertz",58,59.5,63.8,49.6,1
+PASS-20190413CHINC-53,20190413CHINC,"Sam Kerr","Chicago Red Stars","Alyssa Mautz",36.2,7.9,28.5,5.8,1
+PASS-20190413CHINC-530,20190413CHINC,"Julie Ertz","Chicago Red Stars","Yuki Nagasato",78.5,56.6,100.4,61,1
+PASS-20190413CHINC-531,20190413CHINC,"Yuki Nagasato","Chicago Red Stars","Abby Erceg",100.4,61,97,38,0
+PASS-20190413CHINC-532,20190413CHINC,"Abby Erceg","North Carolina Courage","Crystal Dunn",8,30,29.8,18.8,1
+PASS-20190413CHINC-533,20190413CHINC,"Crystal Dunn","North Carolina Courage","Denise O'Sullivan",38.8,19.9,46,32.1,1
+PASS-20190413CHINC-534,20190413CHINC,"Crystal Dunn","North Carolina Courage","Jessica McDonald",57.3,11.4,75,2.6,1
+PASS-20190413CHINC-535,20190413CHINC,"Arin Wright","Chicago Red Stars","Julie Ertz",2.7,59.3,27.9,49,1
+PASS-20190413CHINC-536,20190413CHINC,"McCall Zerboni","North Carolina Courage","Jessica McDonald",86.1,18.4,92.8,11.2,1
+PASS-20190413CHINC-537,20190413CHINC,"Jessica McDonald","North Carolina Courage","Tierna Davidson",96.2,9.6,94.9,23.8,0
+PASS-20190413CHINC-538,20190413CHINC,"Tierna Davidson","Chicago Red Stars","Merritt Mathias",10.1,44.6,33.6,47.9,0
+PASS-20190413CHINC-539,20190413CHINC,"Merritt Mathias","North Carolina Courage","Sam Mewis",71.4,20.1,68.7,33.2,1
+PASS-20190413CHINC-54,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Julie Ertz",28.5,5.8,31.5,15.2,1
+PASS-20190413CHINC-540,20190413CHINC,"Sam Mewis","North Carolina Courage","Jaelene Hinkle",72,37.2,67.8,57.5,1
+PASS-20190413CHINC-541,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Nikki Stanton",70.6,56,87.6,37.4,0
+PASS-20190413CHINC-542,20190413CHINC,"Nikki Stanton","Chicago Red Stars","Sam Mewis",17.4,30.6,46.8,20.1,0
+PASS-20190413CHINC-543,20190413CHINC,"Sam Mewis","North Carolina Courage","Abby Erceg",54.2,48.1,46,46.4,1
+PASS-20190413CHINC-544,20190413CHINC,"Abby Erceg","North Carolina Courage","Merritt Mathias",47,43.9,60.3,13.8,1
+PASS-20190413CHINC-545,20190413CHINC,"Merritt Mathias","North Carolina Courage","Denise O'Sullivan",73.7,16.2,81.5,28.6,1
+PASS-20190413CHINC-546,20190413CHINC,"Denise O'Sullivan","North Carolina Courage","Arin Wright",82.9,24.7,87.6,22.3,0
+PASS-20190413CHINC-547,20190413CHINC,"Jessica McDonald","North Carolina Courage","Arin Wright",89.2,27.1,92.4,24.3,0
+PASS-20190413CHINC-548,20190413CHINC,"Arin Wright","Chicago Red Stars","Julie Ertz",13.9,44.6,25.4,51.8,1
+PASS-20190413CHINC-549,20190413CHINC,"Julie Ertz","Chicago Red Stars","Abby Dahlkemper",23.9,61.9,35.7,63.4,0
+PASS-20190413CHINC-55,20190413CHINC,"Julie Ertz","Chicago Red Stars","Jaelene Hinkle",41.7,22.1,58.5,16,0
+PASS-20190413CHINC-550,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Abby Erceg",69.3,11.4,49.3,20.8,1
+PASS-20190413CHINC-551,20190413CHINC,"Abby Erceg","North Carolina Courage","Jaelene Hinkle",47.5,26,53.1,45.3,1
+PASS-20190413CHINC-552,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Denise O'Sullivan",57.3,52.5,73.5,49.9,1
+PASS-20190413CHINC-553,20190413CHINC,"Denise O'Sullivan","North Carolina Courage",NULL,73.3,44.8,99.3,34.3,0
+PASS-20190413CHINC-554,20190413CHINC,"Alyssa Naeher","Chicago Red Stars","Yuki Nagasato",5.7,33.7,55.9,48.8,1
+PASS-20190413CHINC-555,20190413CHINC,"Yuki Nagasato","Chicago Red Stars","Arin Wright",50.2,50.9,50.4,47.4,1
+PASS-20190413CHINC-556,20190413CHINC,"McCall Zerboni","North Carolina Courage","Crystal Dunn",50.2,20.1,53.1,17.3,1
+PASS-20190413CHINC-557,20190413CHINC,"Crystal Dunn","North Carolina Courage","Jessica McDonald",71.4,17.7,86.1,6.3,1
+PASS-20190413CHINC-558,20190413CHINC,"Jessica McDonald","North Carolina Courage","Katie Naughton",89.2,5.2,94.1,31,0
+PASS-20190413CHINC-559,20190413CHINC,"Merritt Mathias","North Carolina Courage","Abby Dahlkemper",58.8,12,39.9,13.3,1
+PASS-20190413CHINC-56,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Jaelene Hinkle",37,39.7,49.9,56.9,1
+PASS-20190413CHINC-560,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Abby Erceg",40.3,19.2,39.7,43.5,1
+PASS-20190413CHINC-561,20190413CHINC,"Abby Erceg","North Carolina Courage","Jessica McDonald",47.2,40,73.1,19,1
+PASS-20190413CHINC-562,20190413CHINC,"Jessica McDonald","North Carolina Courage","Katie Naughton",72.7,25.8,86.1,31.5,0
+PASS-20190413CHINC-563,20190413CHINC,"Katie Naughton","Chicago Red Stars","Abby Erceg",18.9,36.5,48.7,34.1,0
+PASS-20190413CHINC-564,20190413CHINC,"Abby Erceg","North Carolina Courage","Danielle Colaprico",56.3,33.9,69.1,34.8,0
+PASS-20190413CHINC-565,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Sam Kerr",36.5,34.3,47.9,38.9,1
+PASS-20190413CHINC-566,20190413CHINC,"Sam Kerr","Chicago Red Stars","Julie Ertz",47.9,38.9,39.5,25.8,1
+PASS-20190413CHINC-567,20190413CHINC,"McCall Zerboni","North Carolina Courage","Jaelene Hinkle",62.2,44.2,56.1,56.2,1
+PASS-20190413CHINC-568,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","McCall Zerboni",58.8,56.2,69.5,54.2,1
+PASS-20190413CHINC-569,20190413CHINC,"McCall Zerboni","North Carolina Courage","Lynn Williams",74.3,55.1,84.6,50.9,1
+PASS-20190413CHINC-57,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Crystal Dunn",46.7,53.5,55.9,44.8,1
+PASS-20190413CHINC-570,20190413CHINC,"Lynn Williams","North Carolina Courage","McCall Zerboni",80.6,53.1,93,60.3,1
+PASS-20190413CHINC-571,20190413CHINC,"McCall Zerboni","North Carolina Courage","Katie Naughton",93,60.3,95.6,41.8,0
+PASS-20190413CHINC-572,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Abby Dahlkemper",28.1,11.2,54.6,33.7,0
+PASS-20190413CHINC-573,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Merritt Mathias",50.8,31.3,71.2,13.3,1
+PASS-20190413CHINC-574,20190413CHINC,"Merritt Mathias","North Carolina Courage","Crystal Dunn",72.2,13.1,98.1,7.9,1
+PASS-20190413CHINC-575,20190413CHINC,"Crystal Dunn","North Carolina Courage","Alyssa Mautz",98.1,7.9,96,53.8,0
+PASS-20190413CHINC-576,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Danielle Colaprico",16.8,7.2,31.7,14,1
+PASS-20190413CHINC-577,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Sarah Gorden",31.7,14,18.1,16.2,1
+PASS-20190413CHINC-578,20190413CHINC,"Sarah Gorden","Chicago Red Stars","Yuki Nagasato",18.1,16.2,47,11.4,1
+PASS-20190413CHINC-579,20190413CHINC,"Yuki Nagasato","Chicago Red Stars","Alyssa Mautz",47,11.4,34.4,2.6,1
+PASS-20190413CHINC-58,20190413CHINC,"Crystal Dunn","North Carolina Courage","Nikki Stanton",58,48.2,60.1,49.6,0
+PASS-20190413CHINC-580,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Abby Erceg",34.4,2.6,59.8,11.4,0
+PASS-20190413CHINC-581,20190413CHINC,"Abby Erceg","North Carolina Courage","McCall Zerboni",45.2,56.6,55,47.9,1
+PASS-20190413CHINC-582,20190413CHINC,"McCall Zerboni","North Carolina Courage","Crystal Dunn",55.2,43.9,56.5,31.3,1
+PASS-20190413CHINC-583,20190413CHINC,"Crystal Dunn","North Carolina Courage","Merritt Mathias",55.9,29.3,44.9,14,1
+PASS-20190413CHINC-584,20190413CHINC,"Merritt Mathias","North Carolina Courage","McCall Zerboni",71.2,9.4,75.4,17.9,1
+PASS-20190413CHINC-585,20190413CHINC,"Alyssa Naeher","Chicago Red Stars","Stephanie Labbe",29.4,49.4,96.2,39.8,0
+PASS-20190413CHINC-586,20190413CHINC,"Stephanie Labbe","North Carolina Courage","Abby Erceg",10.1,31.5,17.9,39.6,1
+PASS-20190413CHINC-587,20190413CHINC,"Abby Erceg","North Carolina Courage","Jaelene Hinkle",23.1,43.7,34.4,61.4,1
+PASS-20190413CHINC-588,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Lynn Williams",36.8,63,92,58.2,1
+PASS-20190413CHINC-589,20190413CHINC,"Lynn Williams","North Carolina Courage","Jaelene Hinkle",91.6,56,81.3,60.1,1
+PASS-20190413CHINC-59,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","McCall Zerboni",49.2,15.1,62.9,27.6,0
+PASS-20190413CHINC-590,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Sam Mewis",32.6,3.1,39.3,6.8,0
+PASS-20190413CHINC-591,20190413CHINC,"Alyssa Naeher","Chicago Red Stars","Yuki Nagasato",8.4,38.9,58.8,46.4,1
+PASS-20190413CHINC-592,20190413CHINC,"Merritt Mathias","North Carolina Courage","Yuki Nagasato",29.8,23.4,39.1,25.1,0
+PASS-20190413CHINC-593,20190413CHINC,"Yuki Nagasato","Chicago Red Stars",NULL,68.5,43.1,78.8,50.2,0
+PASS-20190413CHINC-594,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Abby Erceg",26.2,17.8,24.4,47.7,1
+PASS-20190413CHINC-595,20190413CHINC,"Abby Erceg","North Carolina Courage","Jaelene Hinkle",27.5,47.9,41.4,62.9,1
+PASS-20190413CHINC-596,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Denise O'Sullivan",44.7,63.1,60.1,51.5,1
+PASS-20190413CHINC-597,20190413CHINC,"Denise O'Sullivan","North Carolina Courage","Danielle Colaprico",71.2,35.2,67.8,38.3,0
+PASS-20190413CHINC-598,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Julie Ertz",37.2,29.7,35.5,31.8,1
+PASS-20190413CHINC-599,20190413CHINC,"Sam Mewis","North Carolina Courage","Lynn Williams",73.9,41.1,96.2,50,1
+PASS-20190413CHINC-6,20190413CHINC,"Yuki Nagasato","Chicago Red Stars","Abby Erceg",62.3,26.1,84.3,30.5,0
+PASS-20190413CHINC-60,20190413CHINC,"McCall Zerboni","North Carolina Courage","Abby Erceg",42.1,40.4,18,51.1,1
+PASS-20190413CHINC-600,20190413CHINC,"Lynn Williams","North Carolina Courage","Arin Wright",100.2,49.8,96.6,34.5,0
+PASS-20190413CHINC-601,20190413CHINC,"Arin Wright","Chicago Red Stars","Julie Ertz",8.4,33.5,30.2,27.5,1
+PASS-20190413CHINC-602,20190413CHINC,"Julie Ertz","Chicago Red Stars","Yuki Nagasato",48.7,35.2,52.3,49.6,1
+PASS-20190413CHINC-603,20190413CHINC,"Yuki Nagasato","Chicago Red Stars","Nikki Stanton",52.7,49.1,38.4,41.1,1
+PASS-20190413CHINC-604,20190413CHINC,"Nikki Stanton","Chicago Red Stars","Arin Wright",40.5,43.2,38.2,60.8,1
+PASS-20190413CHINC-605,20190413CHINC,"Arin Wright","Chicago Red Stars","Julie Ertz",37.8,61,70.8,60.4,1
+PASS-20190413CHINC-606,20190413CHINC,"Julie Ertz","Chicago Red Stars","Arin Wright",64.7,59.7,45.4,64.2,1
+PASS-20190413CHINC-607,20190413CHINC,"Arin Wright","Chicago Red Stars","Julie Ertz",46.8,64,60.7,54.9,1
+PASS-20190413CHINC-608,20190413CHINC,"Julie Ertz","Chicago Red Stars","Alyssa Mautz",58.6,47.7,57.3,11.2,1
+PASS-20190413CHINC-609,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Arin Wright",71.2,16.3,94.7,43.6,1
+PASS-20190413CHINC-61,20190413CHINC,"Abby Erceg","North Carolina Courage","Stephanie Labbe",18,51.1,15.1,32.9,1
+PASS-20190413CHINC-610,20190413CHINC,"Abby Erceg","North Carolina Courage","Jaelene Hinkle",19.7,52.7,31.9,66.7,1
+PASS-20190413CHINC-611,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Sam Mewis",31.9,66.7,22.3,57,1
+PASS-20190413CHINC-612,20190413CHINC,"Abby Erceg","North Carolina Courage","Jaelene Hinkle",25.4,57.4,39.7,65.7,1
+PASS-20190413CHINC-613,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Lynn Williams",39.9,66.1,48.5,66.7,1
+PASS-20190413CHINC-614,20190413CHINC,"Lynn Williams","North Carolina Courage","Jaelene Hinkle",45.6,65,41.8,61,1
+PASS-20190413CHINC-615,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Jessica McDonald",43,62.1,79.4,55.5,1
+PASS-20190413CHINC-616,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Lynn Williams",105,68,99.1,34.3,1
+PASS-20190413CHINC-617,20190413CHINC,"Jessica McDonald","North Carolina Courage","Julie Ertz",101.8,7.6,98.1,22.5,0
+PASS-20190413CHINC-618,20190413CHINC,"McCall Zerboni","North Carolina Courage","Sam Mewis",76.2,23.9,72.7,53,1
+PASS-20190413CHINC-619,20190413CHINC,"Sam Mewis","North Carolina Courage","Jaelene Hinkle",71,52.1,64.3,47.9,1
+PASS-20190413CHINC-62,20190413CHINC,"Stephanie Labbe","North Carolina Courage","Abby Dahlkemper",18.1,31.2,27.6,22.5,1
+PASS-20190413CHINC-620,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Alyssa Mautz",80.2,54.2,54.8,47.7,0
+PASS-20190413CHINC-621,20190413CHINC,"McCall Zerboni","North Carolina Courage","Alyssa Mautz",54.8,47.7,54.8,47.7,0
+PASS-20190413CHINC-622,20190413CHINC,"Denise O'Sullivan","North Carolina Courage","Alyssa Naeher",62,43,93.4,51.1,0
+PASS-20190413CHINC-623,20190413CHINC,"Alyssa Naeher","Chicago Red Stars","Yuki Nagasato",13.7,31.8,62.4,45.3,1
+PASS-20190413CHINC-624,20190413CHINC,"Yuki Nagasato","Chicago Red Stars","Abby Dahlkemper",62.4,45.3,62.4,45.3,0
+PASS-20190413CHINC-625,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Abby Erceg",26.7,48.5,24.4,42.4,1
+PASS-20190413CHINC-626,20190413CHINC,"Abby Erceg","North Carolina Courage","Abby Dahlkemper",24.8,41.5,25.6,23.3,1
+PASS-20190413CHINC-627,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Merritt Mathias",26.9,20.5,42.6,7.8,1
+PASS-20190413CHINC-628,20190413CHINC,"Merritt Mathias","North Carolina Courage","Crystal Dunn",42.6,7.8,51.5,16.1,1
+PASS-20190413CHINC-629,20190413CHINC,"Crystal Dunn","North Carolina Courage","Lynn Williams",55.2,25.8,89.7,48.3,1
+PASS-20190413CHINC-63,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Crystal Dunn",34.1,21.7,42.9,20.3,1
+PASS-20190413CHINC-630,20190413CHINC,"Lynn Williams","North Carolina Courage","Alyssa Naeher",98.3,46,101,35.6,0
+PASS-20190413CHINC-631,20190413CHINC,"Alyssa Naeher","Chicago Red Stars","Danielle Colaprico",14.1,28,57.8,21,1
+PASS-20190413CHINC-632,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Danielle Colaprico",51.7,10.2,57.8,12.5,1
+PASS-20190413CHINC-633,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Nikki Stanton",57.8,12.5,50.4,21,1
+PASS-20190413CHINC-634,20190413CHINC,"Alyssa Naeher","Chicago Red Stars","Julie Ertz",9.9,36.2,27.3,61.9,1
+PASS-20190413CHINC-635,20190413CHINC,"Julie Ertz","Chicago Red Stars","Abby Dahlkemper",37,62.3,66.8,47,0
+PASS-20190413CHINC-636,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Julie Ertz",38.2,21,54.8,17.6,0
+PASS-20190413CHINC-637,20190413CHINC,"Julie Ertz","Chicago Red Stars","Sam Kerr",50.2,50.4,61.1,44.3,1
+PASS-20190413CHINC-638,20190413CHINC,"Sam Kerr","Chicago Red Stars","Abby Dahlkemper",61.1,44.3,72,46.4,0
+PASS-20190413CHINC-639,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Abby Erceg",33,21.6,26.7,39.4,1
+PASS-20190413CHINC-64,20190413CHINC,"Crystal Dunn","North Carolina Courage","Abby Erceg",38.5,25.7,30.8,44.6,1
+PASS-20190413CHINC-640,20190413CHINC,"Abby Erceg","North Carolina Courage","Jaelene Hinkle",26.7,39.4,48.5,58.3,1
+PASS-20190413CHINC-641,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Sarah Gorden",48.5,58.3,45.8,62.5,0
+PASS-20190413CHINC-642,20190413CHINC,"Sarah Gorden","Chicago Red Stars","Jaelene Hinkle",40.9,0,59.2,5.5,0
+PASS-20190413CHINC-643,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Lynn Williams",48.5,66.5,55.7,61.6,1
+PASS-20190413CHINC-644,20190413CHINC,"Lynn Williams","North Carolina Courage","Denise O'Sullivan",55.7,61.6,57.1,53.8,1
+PASS-20190413CHINC-645,20190413CHINC,"Denise O'Sullivan","North Carolina Courage","Sam Kerr",54.8,53.4,46,54.9,0
+PASS-20190413CHINC-646,20190413CHINC,"McCall Zerboni","North Carolina Courage","Denise O'Sullivan",50.8,51.9,50,54.4,1
+PASS-20190413CHINC-647,20190413CHINC,"Denise O'Sullivan","North Carolina Courage","Jaelene Hinkle",51.2,55.5,54.4,66.5,1
+PASS-20190413CHINC-648,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Abby Erceg",52.5,66.5,40.5,64.2,1
+PASS-20190413CHINC-649,20190413CHINC,"Abby Erceg","North Carolina Courage","Merritt Mathias",39.7,61.2,60.9,12.9,1
+PASS-20190413CHINC-65,20190413CHINC,"Abby Erceg","North Carolina Courage","Sam Mewis",38.3,49.3,48.3,57.4,1
+PASS-20190413CHINC-650,20190413CHINC,"Jessica McDonald","North Carolina Courage","Crystal Dunn",98.9,0,94.5,23.5,1
+PASS-20190413CHINC-651,20190413CHINC,"Sam Kerr","Chicago Red Stars","Sam Mewis",51.7,34.1,59.6,21,0
+PASS-20190413CHINC-652,20190413CHINC,"Nikki Stanton","Chicago Red Stars","Sam Mewis",55,20.8,57.1,21,0
+PASS-20190413CHINC-653,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Sam Kerr",48.9,15.5,70.3,32.4,1
+PASS-20190413CHINC-654,20190413CHINC,"Sam Kerr","Chicago Red Stars","Yuki Nagasato",67.8,32.6,65.9,27.5,1
+PASS-20190413CHINC-655,20190413CHINC,"Yuki Nagasato","Chicago Red Stars","Arin Wright",69.1,19.3,73.9,52.7,1
+PASS-20190413CHINC-656,20190413CHINC,"Arin Wright","Chicago Red Stars","Sam Kerr",89.5,60.4,98.9,33.9,1
+PASS-20190413CHINC-657,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","McCall Zerboni",105,68,98.3,24.1,0
+PASS-20190413CHINC-658,20190413CHINC,"Tierna Davidson","Chicago Red Stars","Yuki Nagasato",87.2,0,90.5,10,1
+PASS-20190413CHINC-659,20190413CHINC,"Yuki Nagasato","Chicago Red Stars","Tierna Davidson",90.5,6.6,91.3,0.8,1
+PASS-20190413CHINC-66,20190413CHINC,"Sam Mewis","North Carolina Courage","Jessica McDonald",65.2,58.9,73.6,49.9,1
+PASS-20190413CHINC-660,20190413CHINC,"Tierna Davidson","Chicago Red Stars","Yuki Nagasato",91.3,0.8,83.6,6.1,1
+PASS-20190413CHINC-661,20190413CHINC,"Yuki Nagasato","Chicago Red Stars","Alyssa Mautz",79.6,2.8,86.7,5.7,1
+PASS-20190413CHINC-662,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Lynn Williams",82.5,0,90.5,9.1,0
+PASS-20190413CHINC-663,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Abby Erceg",84.2,4.9,90.9,29.4,0
+PASS-20190413CHINC-664,20190413CHINC,"Sarah Gorden","Chicago Red Stars","Alyssa Mautz",67.6,0,79.2,2.3,1
+PASS-20190413CHINC-665,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Yuki Nagasato",77.7,5.1,83.6,10.2,1
+PASS-20190413CHINC-666,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Abby Erceg",77.9,8.7,95.6,31.4,0
+PASS-20190413CHINC-667,20190413CHINC,"Sam Kerr","Chicago Red Stars","Katie Naughton",79,43,84.6,46.8,1
+PASS-20190413CHINC-668,20190413CHINC,"Katie Naughton","Chicago Red Stars","Tierna Davidson",84.6,46.8,83.4,39.6,1
+PASS-20190413CHINC-669,20190413CHINC,"Tierna Davidson","Chicago Red Stars","Sam Kerr",83.4,39.6,78.5,41.9,1
+PASS-20190413CHINC-67,20190413CHINC,"Jessica McDonald","North Carolina Courage","Jaelene Hinkle",73.6,49.9,84.8,63.4,1
+PASS-20190413CHINC-670,20190413CHINC,"Sam Kerr","Chicago Red Stars","Sam Mewis",78.5,41.1,85,31.6,0
+PASS-20190413CHINC-671,20190413CHINC,"Sam Mewis","North Carolina Courage","Alyssa Naeher",22.7,34.7,80.2,18.9,0
+PASS-20190413CHINC-672,20190413CHINC,"Alyssa Naeher","Chicago Red Stars","Merritt Mathias",28.1,55.3,91.1,61.2,0
+PASS-20190413CHINC-673,20190413CHINC,"Merritt Mathias","North Carolina Courage","Sam Mewis",19.1,7.2,33.2,16.7,1
+PASS-20190413CHINC-674,20190413CHINC,"Sam Mewis","North Carolina Courage","Merritt Mathias",33.2,16.7,24.6,4,1
+PASS-20190413CHINC-675,20190413CHINC,"Merritt Mathias","North Carolina Courage","Tierna Davidson",38.8,2.3,76.7,9.5,0
+PASS-20190413CHINC-676,20190413CHINC,"Tierna Davidson","Chicago Red Stars","Arin Wright",28.3,58.5,32.6,51.3,1
+PASS-20190413CHINC-677,20190413CHINC,"Arin Wright","Chicago Red Stars","Sam Mewis",32.6,51.3,41.6,44.3,0
+PASS-20190413CHINC-678,20190413CHINC,"Nikki Stanton","Chicago Red Stars","Abby Dahlkemper",33.4,44.1,62.8,50,0
+PASS-20190413CHINC-679,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Abby Erceg",43,18,41.2,32.8,1
+PASS-20190413CHINC-68,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Tierna Davidson",86,63.2,91.6,36.1,0
+PASS-20190413CHINC-680,20190413CHINC,"Abby Erceg","North Carolina Courage","Jaelene Hinkle",42.4,33.7,51.2,66.3,1
+PASS-20190413CHINC-681,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Julie Ertz",53.1,66.3,70.6,58.9,0
+PASS-20190413CHINC-682,20190413CHINC,"Julie Ertz","Chicago Red Stars",NULL,34.4,9.1,39.1,0,0
+PASS-20190413CHINC-683,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Abby Erceg",65.9,68,47,60.5,1
+PASS-20190413CHINC-684,20190413CHINC,"Abby Erceg","North Carolina Courage","Abby Dahlkemper",47,59.4,34.4,34.4,1
+PASS-20190413CHINC-685,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Denise O'Sullivan",48.1,23.9,66.6,17.1,1
+PASS-20190413CHINC-686,20190413CHINC,"Denise O'Sullivan","North Carolina Courage","Abby Dahlkemper",66.4,16.7,49.3,14.8,1
+PASS-20190413CHINC-687,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Merritt Mathias",50.6,10.7,65.3,3,1
+PASS-20190413CHINC-688,20190413CHINC,"Merritt Mathias","North Carolina Courage","Leah Pruitt",66.4,3,83.6,2.8,1
+PASS-20190413CHINC-689,20190413CHINC,"Leah Pruitt","North Carolina Courage","Crystal Dunn",86.1,2.4,85.7,10.5,1
+PASS-20190413CHINC-69,20190413CHINC,"Sarah Gorden","Chicago Red Stars",NULL,6.3,5.8,8.5,0,0
+PASS-20190413CHINC-690,20190413CHINC,"Crystal Dunn","North Carolina Courage","Julie Ertz",83.8,23.5,84,25.9,0
+PASS-20190413CHINC-691,20190413CHINC,"Yuki Nagasato","Chicago Red Stars","Sarah Gorden",27.1,26.1,28.3,10.1,1
+PASS-20190413CHINC-692,20190413CHINC,"Sarah Gorden","Chicago Red Stars","Alyssa Mautz",39.9,3.6,53.3,19.2,1
+PASS-20190413CHINC-693,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Denise O'Sullivan",25.8,8.3,53.3,19.2,0
+PASS-20190413CHINC-694,20190413CHINC,"Sam Mewis","North Carolina Courage","Jaelene Hinkle",49.6,44.5,51.5,65.9,1
+PASS-20190413CHINC-695,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Alyssa Mautz",64.3,58.8,69.7,60.1,0
+PASS-20190413CHINC-696,20190413CHINC,"Sarah Gorden","Chicago Red Stars","Alyssa Mautz",18.1,7.5,34.4,1.9,1
+PASS-20190413CHINC-697,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Danielle Colaprico",34.4,1.9,37.6,8.6,1
+PASS-20190413CHINC-698,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Sam Kerr",37.6,8.6,50.4,19.7,1
+PASS-20190413CHINC-699,20190413CHINC,"Sam Kerr","Chicago Red Stars","Yuki Nagasato",50.4,19.7,44.7,19.9,1
+PASS-20190413CHINC-7,20190413CHINC,"Abby Erceg","North Carolina Courage","Stephanie Labbe",20.7,37.5,15,33.4,1
+PASS-20190413CHINC-70,20190413CHINC,"Jessica McDonald","North Carolina Courage","Jaelene Hinkle",96.5,68,89.8,61.1,1
+PASS-20190413CHINC-700,20190413CHINC,"Yuki Nagasato","Chicago Red Stars","Arin Wright",41.2,19.9,30.2,52,1
+PASS-20190413CHINC-701,20190413CHINC,"Arin Wright","Chicago Red Stars","Sam Mewis",37.8,52,47.5,33.4,0
+PASS-20190413CHINC-702,20190413CHINC,"Sam Mewis","North Carolina Courage","Crystal Dunn",57.5,34.6,100,2.1,1
+PASS-20190413CHINC-703,20190413CHINC,"Crystal Dunn","North Carolina Courage","Tierna Davidson",103.1,8.3,100.4,29.9,0
+PASS-20190413CHINC-704,20190413CHINC,"Julie Ertz","Chicago Red Stars","Denise O'Sullivan",16.2,40.6,37.4,43.2,0
+PASS-20190413CHINC-705,20190413CHINC,"Sam Kerr","Chicago Red Stars","Danielle Colaprico",60.1,23.1,54.4,29.5,1
+PASS-20190413CHINC-706,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Abby Dahlkemper",56.5,30.4,73.1,35.7,0
+PASS-20190413CHINC-707,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Sam Mewis",31.9,32.3,35.1,35.9,1
+PASS-20190413CHINC-708,20190413CHINC,"Sam Mewis","North Carolina Courage","Kristen Hamilton",35.3,38.5,50.4,45.1,1
+PASS-20190413CHINC-709,20190413CHINC,"Kristen Hamilton","North Carolina Courage","Katie Naughton",50.4,45.1,59.4,44.1,0
+PASS-20190413CHINC-71,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Katie Naughton",90.8,60.3,91.9,48.9,0
+PASS-20190413CHINC-710,20190413CHINC,"Katie Naughton","Chicago Red Stars","Danielle Colaprico",45.6,23.9,54.8,28.4,1
+PASS-20190413CHINC-711,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Julie Ertz",50.4,30.4,50.6,38.5,1
+PASS-20190413CHINC-712,20190413CHINC,"Julie Ertz","Chicago Red Stars","Sam Mewis",50.6,38.5,59.2,25,0
+PASS-20190413CHINC-713,20190413CHINC,"Sam Mewis","North Carolina Courage","Denise O'Sullivan",46,43.2,47.9,31.6,1
+PASS-20190413CHINC-714,20190413CHINC,"Denise O'Sullivan","North Carolina Courage","Crystal Dunn",49.8,24.6,51.7,13.9,1
+PASS-20190413CHINC-715,20190413CHINC,"Crystal Dunn","North Carolina Courage","Merritt Mathias",49.8,14.3,35.3,8.6,1
+PASS-20190413CHINC-716,20190413CHINC,"Merritt Mathias","North Carolina Courage","Crystal Dunn",39.9,8.3,63,5.3,1
+PASS-20190413CHINC-717,20190413CHINC,"Crystal Dunn","North Carolina Courage","Leah Pruitt",74.8,9.4,93.4,7.7,1
+PASS-20190413CHINC-718,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Sam Mewis",105,0,98.9,4.5,1
+PASS-20190413CHINC-719,20190413CHINC,"Sam Mewis","North Carolina Courage","Leah Pruitt",98.9,4.5,97.2,36.6,1
+PASS-20190413CHINC-72,20190413CHINC,"Sarah Gorden","Chicago Red Stars","Sam Kerr",12.5,10.2,36.5,15.1,1
+PASS-20190413CHINC-720,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Sam Mewis",105,0,99.8,4.7,1
+PASS-20190413CHINC-721,20190413CHINC,"Sam Mewis","North Carolina Courage","Lynn Williams",99.8,4.7,100,41.1,1
+PASS-20190413CHINC-722,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Sam Mewis",105,0,99.3,4.5,1
+PASS-20190413CHINC-723,20190413CHINC,"Sam Mewis","North Carolina Courage","Merritt Mathias",99.3,4.5,78.5,11.3,1
+PASS-20190413CHINC-724,20190413CHINC,"Merritt Mathias","North Carolina Courage","Lynn Williams",79,12.4,103.3,45.5,1
+PASS-20190413CHINC-725,20190413CHINC,"Abby Erceg","North Carolina Courage","Denise O'Sullivan",94.7,45.5,71.8,42.1,1
+PASS-20190413CHINC-726,20190413CHINC,"Denise O'Sullivan","North Carolina Courage","Merritt Mathias",71.6,42.1,69.9,28,1
+PASS-20190413CHINC-727,20190413CHINC,"Merritt Mathias","North Carolina Courage","Morgan Gautrat",73.1,24.2,94.1,40.4,0
+PASS-20190413CHINC-728,20190413CHINC,"Denise O'Sullivan","North Carolina Courage","Merritt Mathias",69.7,35.7,72.9,21.4,1
+PASS-20190413CHINC-729,20190413CHINC,"Merritt Mathias","North Carolina Courage","Sam Kerr",79.6,14.8,88.8,35.1,0
+PASS-20190413CHINC-73,20190413CHINC,"Sam Kerr","Chicago Red Stars","Abby Erceg",36.5,15.1,36.5,15.1,0
+PASS-20190413CHINC-730,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Sam Mewis",105,0,99.3,4.3,1
+PASS-20190413CHINC-731,20190413CHINC,"Sam Mewis","North Carolina Courage","Kristen Hamilton",99.3,4.3,99.5,34.5,1
+PASS-20190413CHINC-732,20190413CHINC,"Tierna Davidson","Chicago Red Stars","Crystal Dunn",12.4,30.7,17.4,26.4,0
+PASS-20190413CHINC-733,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Morgan Gautrat",39.5,0,43.9,5.8,1
+PASS-20190413CHINC-734,20190413CHINC,"Morgan Gautrat","Chicago Red Stars","Alyssa Mautz",43.9,5.8,40.5,1.3,1
+PASS-20190413CHINC-735,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Danielle Colaprico",40.5,1.1,45.2,10.2,1
+PASS-20190413CHINC-736,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Morgan Gautrat",49.1,10.4,55.9,3.6,1
+PASS-20190413CHINC-737,20190413CHINC,"Morgan Gautrat","Chicago Red Stars","Abby Erceg",57.8,4.9,68.9,7,0
+PASS-20190413CHINC-738,20190413CHINC,"Abby Erceg","North Carolina Courage","Lynn Williams",36.1,66.1,57.8,62.5,1
+PASS-20190413CHINC-739,20190413CHINC,"Lynn Williams","North Carolina Courage","Katie Naughton",57.8,62.5,69.3,57.3,0
+PASS-20190413CHINC-74,20190413CHINC,"McCall Zerboni","North Carolina Courage","Abby Dahlkemper",65.6,46,50.7,46,1
+PASS-20190413CHINC-740,20190413CHINC,"Katie Naughton","Chicago Red Stars","Sam Mewis",37,8.1,60.9,18.5,0
+PASS-20190413CHINC-741,20190413CHINC,"Sam Mewis","North Carolina Courage","Leah Pruitt",44.1,49.5,68,52.9,1
+PASS-20190413CHINC-742,20190413CHINC,"Lynn Williams","North Carolina Courage","Kristen Hamilton",74.3,54.1,74.3,30.5,1
+PASS-20190413CHINC-743,20190413CHINC,"Kristen Hamilton","North Carolina Courage","Leah Pruitt",74.3,30.5,82.3,30.7,1
+PASS-20190413CHINC-744,20190413CHINC,"Katie Naughton","Chicago Red Stars","Denise O'Sullivan",19.7,33.7,36.8,39.2,0
+PASS-20190413CHINC-745,20190413CHINC,"Denise O'Sullivan","North Carolina Courage","Tierna Davidson",68.2,28.8,80.4,29,0
+PASS-20190413CHINC-746,20190413CHINC,"Tierna Davidson","Chicago Red Stars","Sam Kerr",24.6,39,51.9,29.4,1
+PASS-20190413CHINC-747,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Sam Mewis",53.8,53.5,56.1,46.7,1
+PASS-20190413CHINC-748,20190413CHINC,"Sam Mewis","North Carolina Courage","Abby Erceg",56.1,46.7,41.8,45.8,1
+PASS-20190413CHINC-749,20190413CHINC,"Abby Erceg","North Carolina Courage","Abby Dahlkemper",39.1,40.7,40.1,17.1,1
+PASS-20190413CHINC-75,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Merritt Mathias",50.9,38,55.9,22.4,1
+PASS-20190413CHINC-750,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Leah Pruitt",67,16.6,78.1,24.5,1
+PASS-20190413CHINC-751,20190413CHINC,"Leah Pruitt","North Carolina Courage","Julie Ertz",77.7,33.5,83.6,35.4,0
+PASS-20190413CHINC-752,20190413CHINC,"Morgan Gautrat","Chicago Red Stars","Arin Wright",27.3,58.8,16.6,65.2,1
+PASS-20190413CHINC-753,20190413CHINC,"Arin Wright","Chicago Red Stars","Denise O'Sullivan",16.6,65.2,34.9,60.5,0
+PASS-20190413CHINC-754,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Sam Mewis",67.6,18.5,62.2,27.1,1
+PASS-20190413CHINC-755,20190413CHINC,"Sam Mewis","North Carolina Courage","Denise O'Sullivan",67.6,34.3,70.6,20.9,1
+PASS-20190413CHINC-756,20190413CHINC,"Denise O'Sullivan","North Carolina Courage","Kristen Hamilton",70.6,19.2,79,12.4,1
+PASS-20190413CHINC-757,20190413CHINC,"Kristen Hamilton","North Carolina Courage","Merritt Mathias",79,12.4,83.2,1.1,1
+PASS-20190413CHINC-758,20190413CHINC,"Merritt Mathias","North Carolina Courage","Leah Pruitt",85.5,2.3,103.5,7.5,1
+PASS-20190413CHINC-759,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Abby Erceg",105,0,91.8,35.6,1
+PASS-20190413CHINC-76,20190413CHINC,"Merritt Mathias","North Carolina Courage","McCall Zerboni",60,21.8,70.3,27.6,1
+PASS-20190413CHINC-760,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Abby Erceg",105,0,92.6,35.2,1
+PASS-20190413CHINC-761,20190413CHINC,"Alyssa Naeher","Chicago Red Stars",NULL,12,29.2,73.9,68,0
+PASS-20190413CHINC-762,20190413CHINC,"Merritt Mathias","North Carolina Courage","Kristen Hamilton",31.1,0,43.9,5.5,1
+PASS-20190413CHINC-763,20190413CHINC,"Kristen Hamilton","North Carolina Courage","Merritt Mathias",42.2,5.3,32.8,2.8,1
+PASS-20190413CHINC-764,20190413CHINC,"Merritt Mathias","North Carolina Courage","Leah Pruitt",32.8,2.8,68.7,15.1,1
+PASS-20190413CHINC-765,20190413CHINC,"Alyssa Naeher","Chicago Red Stars","Abby Dahlkemper",32.6,49,96.6,55,0
+PASS-20190413CHINC-766,20190413CHINC,"Michele Vasconcelos","Chicago Red Stars","Kristen Hamilton",95.3,68,92.2,60.8,0
+PASS-20190413CHINC-767,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Morgan Gautrat",78.3,65.4,87.2,64.7,1
+PASS-20190413CHINC-768,20190413CHINC,"Morgan Gautrat","Chicago Red Stars","Abby Dahlkemper",82.3,63,86.7,61.9,0
+PASS-20190413CHINC-769,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Alyssa Naeher",18.3,6.1,76,21.3,0
+PASS-20190413CHINC-77,20190413CHINC,"Nikki Stanton","Chicago Red Stars","McCall Zerboni",29.3,41.6,34.9,41.5,0
+PASS-20190413CHINC-770,20190413CHINC,"Alyssa Naeher","Chicago Red Stars","Nikki Stanton",29,46.3,39.5,40.8,1
+PASS-20190413CHINC-771,20190413CHINC,"Morgan Gautrat","Chicago Red Stars","Alyssa Mautz",30,33.7,31.5,28.2,1
+PASS-20190413CHINC-772,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Abby Erceg",31.5,28.2,55,28.5,0
+PASS-20190413CHINC-773,20190413CHINC,"Abby Erceg","North Carolina Courage","Crystal Dunn",50,39.5,66.2,35.8,1
+PASS-20190413CHINC-774,20190413CHINC,"Crystal Dunn","North Carolina Courage","Denise O'Sullivan",63.8,35.4,67.2,42.4,1
+PASS-20190413CHINC-775,20190413CHINC,"Denise O'Sullivan","North Carolina Courage","Jaelene Hinkle",68,48.4,70.3,62.1,1
+PASS-20190413CHINC-776,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Sarah Gorden",92,50.2,94.9,45.8,0
+PASS-20190413CHINC-777,20190413CHINC,"Nikki Stanton","Chicago Red Stars","Abby Erceg",14.7,24.3,48.1,14.1,0
+PASS-20190413CHINC-778,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Sam Kerr",33.4,2.2,74.8,9.1,1
+PASS-20190413CHINC-779,20190413CHINC,"Sam Kerr","Chicago Red Stars","Alyssa Mautz",91.6,5.2,73.1,3.3,1
+PASS-20190413CHINC-78,20190413CHINC,"Denise O'Sullivan","North Carolina Courage","Lynn Williams",76.4,26.4,81.2,22.9,1
+PASS-20190413CHINC-780,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Morgan Gautrat",72.9,3.9,74.6,15.9,1
+PASS-20190413CHINC-781,20190413CHINC,"Morgan Gautrat","Chicago Red Stars","Alyssa Mautz",73.3,12.8,70.1,1.7,1
+PASS-20190413CHINC-782,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Sam Kerr",71.6,2.2,79.8,0.7,1
+PASS-20190413CHINC-783,20190413CHINC,"Sam Kerr","Chicago Red Stars","Alyssa Mautz",79.8,0.7,74.6,6.7,1
+PASS-20190413CHINC-784,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Morgan Gautrat",74.8,8.5,71,15,1
+PASS-20190413CHINC-785,20190413CHINC,"Morgan Gautrat","Chicago Red Stars",NULL,70.3,15.6,99.3,35.2,0
+PASS-20190413CHINC-786,20190413CHINC,"Stephanie Labbe","North Carolina Courage","Abby Dahlkemper",5.7,32.8,27.5,19.6,1
+PASS-20190413CHINC-787,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Denise O'Sullivan",27.5,19.6,38.4,21.3,1
+PASS-20190413CHINC-788,20190413CHINC,"Denise O'Sullivan","North Carolina Courage","Merritt Mathias",42.6,18.2,51.2,6.3,1
+PASS-20190413CHINC-789,20190413CHINC,"Merritt Mathias","North Carolina Courage","Tierna Davidson",51.2,6.3,73.1,10.9,0
+PASS-20190413CHINC-79,20190413CHINC,"Lynn Williams","North Carolina Courage","Crystal Dunn",81.2,22.9,79.4,10.5,1
+PASS-20190413CHINC-790,20190413CHINC,"Tierna Davidson","Chicago Red Stars","Merritt Mathias",33.4,57.1,45.2,53,0
+PASS-20190413CHINC-791,20190413CHINC,"Merritt Mathias","North Carolina Courage","Sam Mewis",59.6,17.8,58.4,33,1
+PASS-20190413CHINC-792,20190413CHINC,"Sam Mewis","North Carolina Courage","Lynn Williams",73.7,37.6,86.9,33.2,1
+PASS-20190413CHINC-793,20190413CHINC,"Lynn Williams","North Carolina Courage","Leah Pruitt",87.4,32.2,91.6,27.4,1
+PASS-20190413CHINC-794,20190413CHINC,"Alyssa Naeher","Chicago Red Stars","Danielle Colaprico",5.5,34.8,49.1,53,1
+PASS-20190413CHINC-795,20190413CHINC,"Tierna Davidson","Chicago Red Stars","Michele Vasconcelos",45.4,68,57.1,63.9,1
+PASS-20190413CHINC-796,20190413CHINC,"Michele Vasconcelos","Chicago Red Stars","Julie Ertz",45.2,65.8,29.8,54.5,1
+PASS-20190413CHINC-797,20190413CHINC,"Julie Ertz","Chicago Red Stars","Abby Erceg",29.8,54.5,76.4,46.7,0
+PASS-20190413CHINC-798,20190413CHINC,"Abby Erceg","North Carolina Courage","Morgan Gautrat",28.6,21.3,33.6,16.3,0
+PASS-20190413CHINC-799,20190413CHINC,"Morgan Gautrat","Chicago Red Stars","Sam Kerr",71.4,51.7,73.3,35.2,1
+PASS-20190413CHINC-8,20190413CHINC,"Stephanie Labbe","North Carolina Courage","Jaelene Hinkle",15,33.4,21.7,62.9,1
+PASS-20190413CHINC-80,20190413CHINC,"Crystal Dunn","North Carolina Courage","Sarah Gorden",92,7.6,90,67.7,0
+PASS-20190413CHINC-800,20190413CHINC,"Sam Kerr","Chicago Red Stars","Alyssa Mautz",79.6,26.5,93.4,13.5,1
+PASS-20190413CHINC-801,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Abby Dahlkemper",95.6,14.3,101,26.7,0
+PASS-20190413CHINC-802,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Crystal Dunn",1.9,59.1,39.5,66,1
+PASS-20190413CHINC-803,20190413CHINC,"Abby Erceg","North Carolina Courage","Sam Mewis",39.5,65,38,46.3,1
+PASS-20190413CHINC-804,20190413CHINC,"Sam Mewis","North Carolina Courage","Abby Dahlkemper",54.2,36.9,50.8,19.8,1
+PASS-20190413CHINC-805,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Kristen Hamilton",55.9,19.6,72,20.2,1
+PASS-20190413CHINC-806,20190413CHINC,"Kristen Hamilton","North Carolina Courage","Katie Naughton",73.9,24.3,83.8,31.3,0
+PASS-20190413CHINC-807,20190413CHINC,"Merritt Mathias","North Carolina Courage","Abby Dahlkemper",57.3,0,43.3,9.3,1
+PASS-20190413CHINC-808,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Leah Pruitt",48.7,8.3,75.6,18.2,1
+PASS-20190413CHINC-809,20190413CHINC,"Leah Pruitt","North Carolina Courage","Julie Ertz",75.6,18.2,75.6,18.2,0
+PASS-20190413CHINC-81,20190413CHINC,"Sarah Gorden","Chicago Red Stars","Sam Kerr",15,0.3,31.5,14.9,1
+PASS-20190413CHINC-810,20190413CHINC,"Tierna Davidson","Chicago Red Stars","Leah Pruitt",21,52.8,30.9,48,0
+PASS-20190413CHINC-811,20190413CHINC,"Alyssa Naeher","Chicago Red Stars","Morgan Gautrat",5,34.8,47.2,46.1,1
+PASS-20190413CHINC-812,20190413CHINC,"Merritt Mathias","North Carolina Courage","Lynn Williams",66.6,0,82.5,6.3,1
+PASS-20190413CHINC-813,20190413CHINC,"Tierna Davidson","Chicago Red Stars","Merritt Mathias",20.6,68,36.8,63.4,0
+PASS-20190413CHINC-814,20190413CHINC,"Merritt Mathias","North Carolina Courage","Morgan Gautrat",68.2,4.6,75.2,16.1,0
+PASS-20190413CHINC-815,20190413CHINC,"Morgan Gautrat","Chicago Red Stars","Tierna Davidson",29.8,51.9,23.3,60.4,1
+PASS-20190413CHINC-816,20190413CHINC,"Tierna Davidson","Chicago Red Stars","Julie Ertz",23.3,60.4,17.4,56.5,1
+PASS-20190413CHINC-817,20190413CHINC,"Julie Ertz","Chicago Red Stars","Michele Vasconcelos",17.4,56.5,43.9,60.2,1
+PASS-20190413CHINC-818,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Abby Erceg",61.5,8.7,81.7,41.1,1
+PASS-20190413CHINC-819,20190413CHINC,"Abby Erceg","North Carolina Courage",NULL,81.7,41.1,92.2,27.6,0
+PASS-20190413CHINC-82,20190413CHINC,"Sam Kerr","Chicago Red Stars","Alyssa Mautz",31.5,14.9,27.8,5.3,1
+PASS-20190413CHINC-820,20190413CHINC,"Alyssa Naeher","Chicago Red Stars","Sam Kerr",12.8,40.4,58.8,46.5,1
+PASS-20190413CHINC-821,20190413CHINC,"Tierna Davidson","Chicago Red Stars","Michele Vasconcelos",64.5,68,79.2,62.8,1
+PASS-20190413CHINC-822,20190413CHINC,"Michele Vasconcelos","Chicago Red Stars","Stephanie Labbe",100.2,57.4,100.4,38.7,0
+PASS-20190413CHINC-823,20190413CHINC,"Stephanie Labbe","North Carolina Courage","Abby Dahlkemper",12,22.8,21.6,11.3,1
+PASS-20190413CHINC-824,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Stephanie Labbe",20.4,19.1,9.4,33.2,1
+PASS-20190413CHINC-825,20190413CHINC,"Stephanie Labbe","North Carolina Courage","Leah Pruitt",24.1,23.5,72.7,33.2,1
+PASS-20190413CHINC-826,20190413CHINC,"Kristen Hamilton","North Carolina Courage","Julie Ertz",78.3,40.8,82.1,30.8,0
+PASS-20190413CHINC-827,20190413CHINC,"Julie Ertz","Chicago Red Stars","Vanessa DiBernardo",22.9,37.2,29.2,18.9,1
+PASS-20190413CHINC-828,20190413CHINC,"Vanessa DiBernardo","Chicago Red Stars","Sam Mewis",29.2,18.9,39.9,27.4,0
+PASS-20190413CHINC-829,20190413CHINC,"Sam Mewis","North Carolina Courage","Jaelene Hinkle",65.1,53.4,64.7,65.4,1
+PASS-20190413CHINC-83,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Sam Kerr",27.8,5.3,33.5,18,1
+PASS-20190413CHINC-830,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Sam Mewis",60.3,66.3,56.1,58.9,1
+PASS-20190413CHINC-831,20190413CHINC,"Sam Mewis","North Carolina Courage","Denise O'Sullivan",57.1,55.6,66.4,46.1,1
+PASS-20190413CHINC-832,20190413CHINC,"Denise O'Sullivan","North Carolina Courage","Abby Dahlkemper",65.3,45.4,50.4,28.5,1
+PASS-20190413CHINC-833,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Merritt Mathias",51,28.5,74.8,2.2,1
+PASS-20190413CHINC-834,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Alyssa Naeher",80,12.2,99.1,33.7,0
+PASS-20190413CHINC-835,20190413CHINC,"Alyssa Naeher","Chicago Red Stars",NULL,13.4,32.8,69.5,68,0
+PASS-20190413CHINC-836,20190413CHINC,"Merritt Mathias","North Carolina Courage","Abby Dahlkemper",35.5,0,23.9,10.9,1
+PASS-20190413CHINC-837,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Jaelene Hinkle",30.5,12.8,45.8,60.8,1
+PASS-20190413CHINC-838,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Crystal Dunn",55.7,60,68.9,64.5,1
+PASS-20190413CHINC-839,20190413CHINC,"Crystal Dunn","North Carolina Courage","Julie Ertz",77.5,62.8,91.6,41.1,0
+PASS-20190413CHINC-84,20190413CHINC,"Sam Kerr","Chicago Red Stars","McCall Zerboni",33.5,18,36.6,21.3,0
+PASS-20190413CHINC-840,20190413CHINC,"Julie Ertz","Chicago Red Stars","Morgan Gautrat",13.4,26.9,35.3,21.5,1
+PASS-20190413CHINC-841,20190413CHINC,"Morgan Gautrat","Chicago Red Stars","Vanessa DiBernardo",35.3,21.5,30.2,34.3,1
+PASS-20190413CHINC-842,20190413CHINC,"Abby Dahlkemper","North Carolina Courage",NULL,77.3,21.1,56.1,20,0
+PASS-20190413CHINC-843,20190413CHINC,"Alyssa Naeher","Chicago Red Stars","Sam Mewis",4.8,36.5,48.9,48,0
+PASS-20190413CHINC-844,20190413CHINC,"Sam Mewis","North Carolina Courage","Leah Pruitt",56.1,20,70.6,25,1
+PASS-20190413CHINC-845,20190413CHINC,"Alyssa Naeher","Chicago Red Stars","Kristen Hamilton",40.5,41.1,92.4,59.7,0
+PASS-20190413CHINC-846,20190413CHINC,"Michele Vasconcelos","Chicago Red Stars","Sam Kerr",89.9,59.3,97,31.3,1
+PASS-20190413CHINC-847,20190413CHINC,"Tierna Davidson","Chicago Red Stars","Michele Vasconcelos",79.4,68,96,60.4,1
+PASS-20190413CHINC-848,20190413CHINC,"Michele Vasconcelos","Chicago Red Stars","Morgan Gautrat",99.8,59.7,89.5,51.1,1
+PASS-20190413CHINC-849,20190413CHINC,"Denise O'Sullivan","North Carolina Courage","Tierna Davidson",19.5,13.5,4,19.3,0
+PASS-20190413CHINC-85,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Alyssa Mautz",32.2,14.5,33.3,5,1
+PASS-20190413CHINC-850,20190413CHINC,"Tierna Davidson","Chicago Red Stars","Stephanie Labbe",73.9,54.7,101,48.7,0
+PASS-20190413CHINC-851,20190413CHINC,"Stephanie Labbe","North Carolina Courage","Lynn Williams",31.9,18,73.1,33,1
+PASS-20190413CHINC-852,20190413CHINC,"Sam Mewis","North Carolina Courage","Leah Pruitt",69.3,37.8,77.1,37.4,1
+PASS-20190413CHINC-86,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Sam Mewis",33.3,5,40.2,9.1,0
+PASS-20190413CHINC-87,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Danielle Colaprico",32.9,0,34.7,11.6,1
+PASS-20190413CHINC-88,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Alyssa Mautz",37.9,12,37.8,2.6,1
+PASS-20190413CHINC-89,20190413CHINC,"Alyssa Mautz","Chicago Red Stars","Sarah Gorden",34.9,5.4,23.8,9.3,1
+PASS-20190413CHINC-9,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Abby Erceg",21.7,62.9,20.2,49.3,1
+PASS-20190413CHINC-90,20190413CHINC,"Sarah Gorden","Chicago Red Stars","Alyssa Mautz",28,10.8,35,4,1
+PASS-20190413CHINC-91,20190413CHINC,"Alyssa Mautz","Chicago Red Stars",NULL,34.4,5.3,50,0,0
+PASS-20190413CHINC-92,20190413CHINC,"Jaelene Hinkle","North Carolina Courage","Jessica McDonald",55,68,68,57.5,1
+PASS-20190413CHINC-93,20190413CHINC,"Jessica McDonald","North Carolina Courage","Julie Ertz",68,57.5,68.6,50.6,0
+PASS-20190413CHINC-94,20190413CHINC,"Julie Ertz","Chicago Red Stars","Danielle Colaprico",38.1,16.6,84.8,3.5,1
+PASS-20190413CHINC-95,20190413CHINC,"Danielle Colaprico","Chicago Red Stars","Abby Erceg",50.8,10.8,84.8,3.5,0
+PASS-20190413CHINC-96,20190413CHINC,"Abby Erceg","North Carolina Courage","Stephanie Labbe",20.2,64.5,13.5,45.3,1
+PASS-20190413CHINC-97,20190413CHINC,"Stephanie Labbe","North Carolina Courage","Abby Erceg",14,46,26.4,51.7,1
+PASS-20190413CHINC-98,20190413CHINC,"Abby Erceg","North Carolina Courage","Abby Dahlkemper",26.4,51.7,36.8,17.8,1
+PASS-20190413CHINC-99,20190413CHINC,"Abby Dahlkemper","North Carolina Courage","Crystal Dunn",38.6,19.9,46.2,28.6,1
+PASS-20190413NJWAS-0,20190413NJWAS,"Jordan DiBiasi","Washington Spirit","Ashley Hatch",52.5,34.1,53.1,32.4,1
+PASS-20190413NJWAS-1,20190413NJWAS,"Ashley Hatch","Washington Spirit","Tegan McGrady",52.4,37,44.5,57.5,1
+PASS-20190413NJWAS-10,20190413NJWAS,"Sarah Woldmoe","Sky Blue FC","Carli Lloyd",55.3,54.5,71.4,43.7,1
+PASS-20190413NJWAS-100,20190413NJWAS,"Meggie Dougherty Howard","Washington Spirit","Samantha Staab",40.9,43.9,29,46,1
+PASS-20190413NJWAS-1000,20190413NJWAS,"Erica Skroski","Sky Blue FC","Carli Lloyd",72.1,68,72.9,54.5,1
+PASS-20190413NJWAS-1001,20190413NJWAS,"Carli Lloyd","Sky Blue FC","Jordan DiBiasi",72.9,54.5,75,53.1,0
+PASS-20190413NJWAS-1002,20190413NJWAS,"Jordan DiBiasi","Washington Spirit","Mallory Pugh",27.6,8.5,42.8,12.2,1
+PASS-20190413NJWAS-1003,20190413NJWAS,"Mallory Pugh","Washington Spirit","Andi Sullivan",42.8,12.2,85.1,26.8,1
+PASS-20190413NJWAS-1004,20190413NJWAS,"Andi Sullivan","Washington Spirit","Kailen Sheridan",31.2,23.4,85.1,26.8,0
+PASS-20190413NJWAS-1005,20190413NJWAS,"Kailen Sheridan","Sky Blue FC","Paige Nielsen",31.3,31.8,89.7,42,0
+PASS-20190413NJWAS-1006,20190413NJWAS,"Aubrey Bledsoe","Washington Spirit","McKenzie Meehan",15.7,8,59.4,7.6,0
+PASS-20190413NJWAS-1007,20190413NJWAS,"McKenzie Meehan","Sky Blue FC","Tori Huster",45.6,60.4,58.5,55.9,0
+PASS-20190413NJWAS-1008,20190413NJWAS,"Tori Huster","Washington Spirit","Jordan DiBiasi",42.3,0,57.9,13.2,1
+PASS-20190413NJWAS-1009,20190413NJWAS,"Jordan DiBiasi","Washington Spirit","Mallory Pugh",59.2,12.5,64,8.2,1
+PASS-20190413NJWAS-101,20190413NJWAS,"Samantha Staab","Washington Spirit","Paige Nielsen",28.3,42.1,28.5,20.3,1
+PASS-20190413NJWAS-1010,20190413NJWAS,"Mallory Pugh","Washington Spirit","Megan Crosson",59.8,17.5,69.4,43.1,1
+PASS-20190413NJWAS-1011,20190413NJWAS,"Andi Sullivan","Washington Spirit","Dorian Bailey",55.5,37.8,84.2,60.2,1
+PASS-20190413NJWAS-1012,20190413NJWAS,"Dorian Bailey","Washington Spirit","Domi Richardson",80.7,49.9,86,45.2,0
+PASS-20190413NJWAS-1013,20190413NJWAS,"Domi Richardson","Sky Blue FC","Andi Sullivan",19,22.8,39.5,19.5,0
+PASS-20190413NJWAS-1014,20190413NJWAS,"Andi Sullivan","Washington Spirit","Dorian Bailey",69.1,46.9,75.7,44.4,1
+PASS-20190413NJWAS-1015,20190413NJWAS,"Dorian Bailey","Washington Spirit","Erica Skroski",77.3,42.9,83.2,21.1,0
+PASS-20190413NJWAS-1016,20190413NJWAS,"Erica Skroski","Sky Blue FC","McKenzie Meehan",25,46.5,34.5,47,1
+PASS-20190413NJWAS-1017,20190413NJWAS,"McKenzie Meehan","Sky Blue FC","Carli Lloyd",47.1,47.1,45.4,43.6,1
+PASS-20190413NJWAS-1018,20190413NJWAS,"Carli Lloyd","Sky Blue FC","Erica Skroski",47.7,51.4,48.9,58.8,1
+PASS-20190413NJWAS-1019,20190413NJWAS,"Erica Skroski","Sky Blue FC","Jen Hoy",51.9,58.2,65.7,54.6,1
+PASS-20190413NJWAS-102,20190413NJWAS,"Paige Nielsen","Washington Spirit","Tori Huster",31.1,17.6,43.3,2.6,1
+PASS-20190413NJWAS-1020,20190413NJWAS,"Jen Hoy","Sky Blue FC","Nahomi Kawasumi",69.3,35.1,69.7,21.1,1
+PASS-20190413NJWAS-1021,20190413NJWAS,"Nahomi Kawasumi","Sky Blue FC","Sarah Woldmoe",70.1,23.9,65.9,33.1,1
+PASS-20190413NJWAS-1022,20190413NJWAS,"Sarah Woldmoe","Sky Blue FC","Domi Richardson",66.5,31,61.7,18.4,1
+PASS-20190413NJWAS-1023,20190413NJWAS,"Domi Richardson","Sky Blue FC","Andi Sullivan",70.2,17.9,84.8,30.6,0
+PASS-20190413NJWAS-1024,20190413NJWAS,"Andi Sullivan","Washington Spirit","Mallory Pugh",20.2,37.4,37.2,45.6,1
+PASS-20190413NJWAS-1025,20190413NJWAS,"Mallory Pugh","Washington Spirit","Tegan McGrady",27.9,47.1,29.2,56.2,1
+PASS-20190413NJWAS-1026,20190413NJWAS,"Tegan McGrady","Washington Spirit","Andi Sullivan",29.2,56.2,28,44.4,1
+PASS-20190413NJWAS-1027,20190413NJWAS,"Andi Sullivan","Washington Spirit","Paige Nielsen",28,44.4,16.5,24.9,1
+PASS-20190413NJWAS-1028,20190413NJWAS,"Paige Nielsen","Washington Spirit","Tori Huster",16.5,24.9,29.4,5.2,1
+PASS-20190413NJWAS-1029,20190413NJWAS,"Tori Huster","Washington Spirit","Sarah Woldmoe",29.4,5.2,53.9,19.6,0
+PASS-20190413NJWAS-103,20190413NJWAS,"Tori Huster","Washington Spirit","Kailen Sheridan",45.5,4.8,64.2,10.2,0
+PASS-20190413NJWAS-1030,20190413NJWAS,"Sarah Woldmoe","Sky Blue FC","Carli Lloyd",51.1,48.4,66.3,41.8,1
+PASS-20190413NJWAS-1031,20190413NJWAS,"Carli Lloyd","Sky Blue FC","Nahomi Kawasumi",66.3,41.8,66.2,35.8,1
+PASS-20190413NJWAS-1032,20190413NJWAS,"Nahomi Kawasumi","Sky Blue FC","Jen Hoy",72.6,41.8,80.1,41.5,1
+PASS-20190413NJWAS-1033,20190413NJWAS,"Jen Hoy","Sky Blue FC","Carli Lloyd",80.1,41.5,80.2,34.9,1
+PASS-20190413NJWAS-1034,20190413NJWAS,"Dorian Bailey","Washington Spirit","Aubrey Bledsoe",21.9,32.6,6.2,31.6,1
+PASS-20190413NJWAS-1035,20190413NJWAS,"Aubrey Bledsoe","Washington Spirit","Sarah Woldmoe",6.2,31.6,44.2,20.9,0
+PASS-20190413NJWAS-1036,20190413NJWAS,"Sarah Woldmoe","Sky Blue FC","Erica Skroski",64.3,55.1,60.8,64.4,1
+PASS-20190413NJWAS-1037,20190413NJWAS,"Erica Skroski","Sky Blue FC","Estelle Johnson",58.7,62.1,39.8,55,1
+PASS-20190413NJWAS-1038,20190413NJWAS,"Estelle Johnson","Sky Blue FC","Domi Richardson",42.2,49.8,36.9,26.4,1
+PASS-20190413NJWAS-1039,20190413NJWAS,"Domi Richardson","Sky Blue FC","Caprice Dydasco",45,25.2,48.6,7.6,1
+PASS-20190413NJWAS-104,20190413NJWAS,"Kailen Sheridan","Sky Blue FC","Julie James",40.8,57.8,76.9,40.3,1
+PASS-20190413NJWAS-1040,20190413NJWAS,"Caprice Dydasco","Sky Blue FC","Domi Richardson",48.4,11.6,44.1,17.1,1
+PASS-20190413NJWAS-1041,20190413NJWAS,"Domi Richardson","Sky Blue FC","Paige Monaghan",44.1,17.1,60.5,16.2,1
+PASS-20190413NJWAS-1042,20190413NJWAS,"Paige Monaghan","Sky Blue FC","Erica Skroski",68.4,25.1,74.8,52.4,1
+PASS-20190413NJWAS-1043,20190413NJWAS,"Erica Skroski","Sky Blue FC","McKenzie Meehan",81.2,57,103,33.5,1
+PASS-20190413NJWAS-1044,20190413NJWAS,"Aubrey Bledsoe","Washington Spirit","Paige Nielsen",13.3,26.5,14.9,14.8,1
+PASS-20190413NJWAS-1045,20190413NJWAS,"Paige Nielsen","Washington Spirit","Aubrey Bledsoe",14.9,14.8,10.5,31.1,1
+PASS-20190413NJWAS-1046,20190413NJWAS,"Aubrey Bledsoe","Washington Spirit","Paige Nielsen",10.5,31.1,15.7,10.6,1
+PASS-20190413NJWAS-1047,20190413NJWAS,"Paige Nielsen","Washington Spirit","Tori Huster",15.7,10.6,70.8,15.8,1
+PASS-20190413NJWAS-1048,20190413NJWAS,"Tori Huster","Washington Spirit","Estelle Johnson",28.5,3.9,70.8,15.8,0
+PASS-20190413NJWAS-1049,20190413NJWAS,"Estelle Johnson","Sky Blue FC","Sarah Woldmoe",34.2,52.2,55.4,46.9,1
+PASS-20190413NJWAS-105,20190413NJWAS,"Meggie Dougherty Howard","Washington Spirit","Julie James",28.1,27.7,28.1,27.7,0
+PASS-20190413NJWAS-1050,20190413NJWAS,"Sarah Woldmoe","Sky Blue FC","Nahomi Kawasumi",55.4,46.9,54.6,50.6,1
+PASS-20190413NJWAS-1051,20190413NJWAS,"Nahomi Kawasumi","Sky Blue FC","Sarah Woldmoe",54.8,47.9,52.2,46.2,1
+PASS-20190413NJWAS-1052,20190413NJWAS,"Sarah Woldmoe","Sky Blue FC","Tori Huster",52.2,46.2,76.6,47,0
+PASS-20190413NJWAS-1053,20190413NJWAS,"Tori Huster","Washington Spirit","Dorian Bailey",28.4,21,36.6,36.9,1
+PASS-20190413NJWAS-1054,20190413NJWAS,"Dorian Bailey","Washington Spirit","Carli Lloyd",36.6,36.9,36.4,21.5,0
+PASS-20190413NJWAS-1055,20190413NJWAS,"Carli Lloyd","Sky Blue FC","Paige Nielsen",80.4,44.4,87.5,43.6,0
+PASS-20190413NJWAS-1056,20190413NJWAS,"Paige Nielsen","Washington Spirit","Nahomi Kawasumi",17.5,24.4,32.3,35.5,0
+PASS-20190413NJWAS-1057,20190413NJWAS,"Nahomi Kawasumi","Sky Blue FC","Carli Lloyd",74.7,31.6,79.7,39.2,1
+PASS-20190413NJWAS-1058,20190413NJWAS,"Andi Sullivan","Washington Spirit","Megan Crosson",25.3,28.8,46.1,22.9,1
+PASS-20190413NJWAS-1059,20190413NJWAS,"Megan Crosson","Washington Spirit","Sarah Woldmoe",34.4,34.1,46.1,22.9,0
+PASS-20190413NJWAS-106,20190413NJWAS,"Sarah Woldmoe","Sky Blue FC",NULL,71.2,31.7,83.4,0,0
+PASS-20190413NJWAS-1060,20190413NJWAS,"Sarah Woldmoe","Sky Blue FC","Carli Lloyd",58.9,45.1,79.6,49.8,1
+PASS-20190413NJWAS-1061,20190413NJWAS,"Cali Farquharson","Washington Spirit","Andi Sullivan",25,20.9,22.7,22.4,1
+PASS-20190413NJWAS-1062,20190413NJWAS,"Andi Sullivan","Washington Spirit","Cali Farquharson",23.3,20,27.5,9.4,1
+PASS-20190413NJWAS-1063,20190413NJWAS,"Cali Farquharson","Washington Spirit","Jordan DiBiasi",35.3,13.4,44,21.9,1
+PASS-20190413NJWAS-1064,20190413NJWAS,"Jordan DiBiasi","Washington Spirit","Mallory Pugh",73.8,8.1,86.1,4.1,1
+PASS-20190413NJWAS-1065,20190413NJWAS,"Erica Skroski","Sky Blue FC","McKenzie Meehan",12.8,68,18.5,64.5,1
+PASS-20190413NJWAS-1066,20190413NJWAS,"Samantha Staab","Washington Spirit","Andi Sullivan",60.2,32.2,61.9,29.1,1
+PASS-20190413NJWAS-1067,20190413NJWAS,"Andi Sullivan","Washington Spirit","Samantha Staab",61.9,29.1,56.3,36.9,1
+PASS-20190413NJWAS-1068,20190413NJWAS,"Samantha Staab","Washington Spirit","Paige Nielsen",57,35,47.2,27.4,1
+PASS-20190413NJWAS-1069,20190413NJWAS,"Paige Nielsen","Washington Spirit","Samantha Staab",47.5,29.6,50.2,39.4,1
+PASS-20190413NJWAS-107,20190413NJWAS,"Tegan McGrady","Washington Spirit","Andi Sullivan",21.6,68,23.7,61.1,1
+PASS-20190413NJWAS-1070,20190413NJWAS,"Samantha Staab","Washington Spirit","Andi Sullivan",52.6,39.9,56.3,32,1
+PASS-20190413NJWAS-1071,20190413NJWAS,"Andi Sullivan","Washington Spirit","Paige Nielsen",56.3,32,44.7,21.5,1
+PASS-20190413NJWAS-1072,20190413NJWAS,"Paige Nielsen","Washington Spirit","Tori Huster",44.7,21.5,46.1,4.6,1
+PASS-20190413NJWAS-1073,20190413NJWAS,"Tori Huster","Washington Spirit","Paige Nielsen",46.1,4.6,29.1,17.8,1
+PASS-20190413NJWAS-1074,20190413NJWAS,"Paige Nielsen","Washington Spirit","Sarah Woldmoe",29.1,17.8,53.4,16.6,0
+PASS-20190413NJWAS-1075,20190413NJWAS,"Sarah Woldmoe","Sky Blue FC","McKenzie Meehan",59.1,53.1,63.7,64.5,1
+PASS-20190413NJWAS-1076,20190413NJWAS,"McKenzie Meehan","Sky Blue FC","Andi Sullivan",76.5,57.6,82.3,45.2,0
+PASS-20190413NJWAS-1077,20190413NJWAS,"Andi Sullivan","Washington Spirit","Mallory Pugh",35.6,19.6,53.8,17.6,1
+PASS-20190413NJWAS-1078,20190413NJWAS,"Mallory Pugh","Washington Spirit","Megan Crosson",97.3,11,99.3,35,1
+PASS-20190413NJWAS-1079,20190413NJWAS,"Tori Huster","Washington Spirit","Jordan DiBiasi",50.5,16.4,53.7,9.6,1
+PASS-20190413NJWAS-108,20190413NJWAS,"Andi Sullivan","Washington Spirit","Tegan McGrady",23.7,61.1,20.9,66.1,1
+PASS-20190413NJWAS-1080,20190413NJWAS,"Jordan DiBiasi","Washington Spirit","Cali Farquharson",55.8,11.6,66.3,10.5,1
+PASS-20190413NJWAS-1081,20190413NJWAS,"Cali Farquharson","Washington Spirit","Mallory Pugh",83.3,8.8,90.7,12.5,1
+PASS-20190413NJWAS-1082,20190413NJWAS,"Carli Lloyd","Sky Blue FC","Nahomi Kawasumi",50,36.4,55.4,29.9,1
+PASS-20190413NJWAS-1083,20190413NJWAS,"Nahomi Kawasumi","Sky Blue FC","Sarah Woldmoe",54.5,30.6,47.3,39.2,1
+PASS-20190413NJWAS-1084,20190413NJWAS,"Sarah Woldmoe","Sky Blue FC","Erica Skroski",49.7,44.4,49.8,56.2,1
+PASS-20190413NJWAS-1085,20190413NJWAS,"Erica Skroski","Sky Blue FC","Paige Nielsen",55.4,52.1,84.3,42.6,0
+PASS-20190413NJWAS-1086,20190413NJWAS,"Paige Nielsen","Washington Spirit","Tori Huster",19.6,24.2,22.4,16.1,1
+PASS-20190413NJWAS-1087,20190413NJWAS,"Tori Huster","Washington Spirit","Cali Farquharson",22.4,16.1,37.8,9,1
+PASS-20190413NJWAS-1088,20190413NJWAS,"Cali Farquharson","Washington Spirit","Paige Nielsen",28.6,17.6,16.5,20.9,1
+PASS-20190413NJWAS-1089,20190413NJWAS,"Paige Nielsen","Washington Spirit","Tori Huster",16.5,20.9,48.7,14.9,1
+PASS-20190413NJWAS-109,20190413NJWAS,"Tegan McGrady","Washington Spirit","Samantha Staab",20.9,66.1,38.7,68,1
+PASS-20190413NJWAS-1090,20190413NJWAS,"Tori Huster","Washington Spirit","Sarah Woldmoe",25.1,3.6,48.7,14.9,0
+PASS-20190413NJWAS-1091,20190413NJWAS,"Sarah Woldmoe","Sky Blue FC","Nahomi Kawasumi",62.9,50,66.2,46.5,1
+PASS-20190413NJWAS-1092,20190413NJWAS,"Nahomi Kawasumi","Sky Blue FC","Carli Lloyd",72.8,33,77.6,26.5,1
+PASS-20190413NJWAS-1093,20190413NJWAS,"Carli Lloyd","Sky Blue FC","Domi Richardson",71.5,23.5,60.2,23,1
+PASS-20190413NJWAS-1094,20190413NJWAS,"Domi Richardson","Sky Blue FC","Sarah Woldmoe",60.2,23,67.6,35.5,1
+PASS-20190413NJWAS-1095,20190413NJWAS,"Sarah Woldmoe","Sky Blue FC","Caprice Dydasco",66.3,29.4,74.1,4,1
+PASS-20190413NJWAS-1096,20190413NJWAS,"Caprice Dydasco","Sky Blue FC",NULL,80.2,12.8,0,0,0
+PASS-20190413NJWAS-11,20190413NJWAS,"Carli Lloyd","Sky Blue FC","Raquel Rodriguez",66,51.3,71.7,62.2,1
+PASS-20190413NJWAS-110,20190413NJWAS,"Samantha Staab","Washington Spirit","Nahomi Kawasumi",8.7,64.5,27.7,67.9,0
+PASS-20190413NJWAS-111,20190413NJWAS,"Nahomi Kawasumi","Sky Blue FC","Raquel Rodriguez",77.3,0.1,82.9,11.3,1
+PASS-20190413NJWAS-112,20190413NJWAS,"Raquel Rodriguez","Sky Blue FC","Julie James",76.8,12.3,71.1,16.2,1
+PASS-20190413NJWAS-113,20190413NJWAS,"Julie James","Sky Blue FC","Nahomi Kawasumi",71.1,16.2,81.6,2.6,1
+PASS-20190413NJWAS-114,20190413NJWAS,"Nahomi Kawasumi","Sky Blue FC","Raquel Rodriguez",79.7,7.6,78.3,13.9,1
+PASS-20190413NJWAS-115,20190413NJWAS,"Raquel Rodriguez","Sky Blue FC","Nahomi Kawasumi",78.3,13.9,77.5,7.8,1
+PASS-20190413NJWAS-116,20190413NJWAS,"Nahomi Kawasumi","Sky Blue FC","Carli Lloyd",78.6,17.3,93.4,42.9,1
+PASS-20190413NJWAS-117,20190413NJWAS,"Samantha Staab","Washington Spirit","Ashley Hatch",8.8,43.3,48.2,45.5,1
+PASS-20190413NJWAS-118,20190413NJWAS,"Domi Richardson","Sky Blue FC","Julie James",56.9,19.6,91.5,35.6,1
+PASS-20190413NJWAS-119,20190413NJWAS,"Aubrey Bledsoe","Washington Spirit","Andi Sullivan",12.2,30.6,18.3,25.8,1
+PASS-20190413NJWAS-12,20190413NJWAS,"Raquel Rodriguez","Sky Blue FC","Carli Lloyd",72.3,61.2,92.4,60.9,1
+PASS-20190413NJWAS-120,20190413NJWAS,"Andi Sullivan","Washington Spirit","Meggie Dougherty Howard",21,24.7,30.6,22.4,1
+PASS-20190413NJWAS-121,20190413NJWAS,"Meggie Dougherty Howard","Washington Spirit","Jordan DiBiasi",30.1,23.5,33.5,29.2,1
+PASS-20190413NJWAS-122,20190413NJWAS,"Jordan DiBiasi","Washington Spirit","Andi Sullivan",29.6,28.8,20.9,32.4,1
+PASS-20190413NJWAS-123,20190413NJWAS,"Andi Sullivan","Washington Spirit","Samantha Staab",20.9,32.4,28.1,56.2,1
+PASS-20190413NJWAS-124,20190413NJWAS,"Samantha Staab","Washington Spirit","Caprice Dydasco",34.3,55.5,79.6,57.9,0
+PASS-20190413NJWAS-125,20190413NJWAS,"Tegan McGrady","Washington Spirit","Jordan DiBiasi",78.1,67.9,71.7,57.4,1
+PASS-20190413NJWAS-126,20190413NJWAS,"Jordan DiBiasi","Washington Spirit","Meggie Dougherty Howard",72.5,49.5,71.6,34.9,1
+PASS-20190413NJWAS-127,20190413NJWAS,"Meggie Dougherty Howard","Washington Spirit","Paige Nielsen",71.2,35.6,50.8,30.2,1
+PASS-20190413NJWAS-128,20190413NJWAS,"Paige Nielsen","Washington Spirit","Andi Sullivan",50.8,30.2,56.7,32.2,1
+PASS-20190413NJWAS-129,20190413NJWAS,"Andi Sullivan","Washington Spirit",NULL,61,33.4,82.3,47.5,0
+PASS-20190413NJWAS-13,20190413NJWAS,"Domi Richardson","Sky Blue FC","Samantha Staab",105,68,97,38.5,0
+PASS-20190413NJWAS-130,20190413NJWAS,"Kailen Sheridan","Sky Blue FC","Julie James",22.7,20.5,78.3,11.6,1
+PASS-20190413NJWAS-131,20190413NJWAS,"Tegan McGrady","Washington Spirit","Cheyna Matthews",11.7,68,33,62.1,1
+PASS-20190413NJWAS-132,20190413NJWAS,"Cheyna Matthews","Washington Spirit","Jordan DiBiasi",33,62.1,33.2,65.1,1
+PASS-20190413NJWAS-133,20190413NJWAS,"Jordan DiBiasi","Washington Spirit",NULL,33.2,65.1,73.9,68,0
+PASS-20190413NJWAS-134,20190413NJWAS,"Caprice Dydasco","Sky Blue FC","Nahomi Kawasumi",31.1,0,33.2,6.7,1
+PASS-20190413NJWAS-135,20190413NJWAS,"Nahomi Kawasumi","Sky Blue FC","Domi Richardson",33.2,6.7,31.3,25.9,1
+PASS-20190413NJWAS-136,20190413NJWAS,"Domi Richardson","Sky Blue FC","Estelle Johnson",31.3,25.9,28.5,41.1,1
+PASS-20190413NJWAS-137,20190413NJWAS,"Estelle Johnson","Sky Blue FC","Erica Skroski",28.5,41.1,24.8,64.3,1
+PASS-20190413NJWAS-138,20190413NJWAS,"Erica Skroski","Sky Blue FC","Imani Dorsey",24.8,64.3,46.6,56.4,1
+PASS-20190413NJWAS-139,20190413NJWAS,"Imani Dorsey","Sky Blue FC","Andi Sullivan",38.2,59.9,46.6,56.4,0
+PASS-20190413NJWAS-14,20190413NJWAS,"Aubrey Bledsoe","Washington Spirit","Tegan McGrady",3.9,33.5,17.7,58.4,1
+PASS-20190413NJWAS-140,20190413NJWAS,"Andi Sullivan","Washington Spirit","Ashley Hatch",71.5,13.6,72.8,21.2,1
+PASS-20190413NJWAS-141,20190413NJWAS,"Ashley Hatch","Washington Spirit","Meggie Dougherty Howard",71.3,15.7,69.5,12.3,1
+PASS-20190413NJWAS-142,20190413NJWAS,"Meggie Dougherty Howard","Washington Spirit","Mallory Pugh",69.7,9.9,81.6,2.3,1

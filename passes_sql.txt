@@ -1,0 +1,105 @@
+/*
+--TABLE COLUMNS
+
+PLAYERS
+-----------
+common_name
+ID
+instat_name
+
+TEAMS
+-----
+ID
+name
+
+GAMES
+-------
+away_team_ID
+competition
+date
+home_team_ID
+ID
+venue
+year
+
+PASSES
+------
+cross
+end_pos_x
+end_pos_y
+end_time
+game_ID
+half
+ID
+player_ID
+raw_event_ID
+receiver
+start_pos_x
+start_pos_y
+start_time
+successful
+team_ID
+
+PSEUDO SQL
+------------
+pass.Pass ID
+pass.game_ID
+team.passing_team
+team.defending_team ??
+player.passer
+player.reciever
+pass.X1
+pass.Y1
+pass.X2
+pass.Y2
+pass.successful
+
+*/
+--START SQL HERE
+
+--Passer Query
+SELECT common_name 
+FROM players
+WHERE ID = pass.player_ID
+
+--Reciever Query
+SELECT common_name 
+FROM players
+WHERE ID = pass.receiver
+
+--Passer's Team Query
+SELECT name
+FROM teams
+WHERE ID = pass.team_ID
+
+--Defending Team Query Test
+CASE
+  WHEN pass.team_id = games.home_team_id
+    THEN games.away_team_id
+  ELSE games.home_team_id
+END AS opponent 
+
+--Actual Query
+SELECT
+pass.ID,
+pass.game_ID,
+(
+	SELECT common_name 
+	FROM players
+	WHERE ID = pass.player_ID) AS passer,
+(
+	SELECT name
+	FROM teams
+	WHERE ID = pass.team_ID) AS team,
+(
+	SELECT common_name 
+	FROM players
+	WHERE ID = pass.receiver) AS receiver,
+pass.start_pos_x,
+pass.start_pos_y,
+pass.end_pos_x,
+pass.end_pos_y,
+pass.successful
+
+FROM passes as pass
+LEFT JOIN games ON games.ID = pass.game_ID
