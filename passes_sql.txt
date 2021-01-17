@@ -72,6 +72,13 @@ SELECT name
 FROM teams
 WHERE ID = pass.team_ID
 
+--Teams' In Game Query
+SELECT games.home_team_ID, games.away_team_ID
+FROM games
+WHERE ID = pass.game_ID
+
+
+
 --Defending Team Query Test
 CASE
   WHEN pass.team_id = games.home_team_id
